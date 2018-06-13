@@ -1,0 +1,900 @@
+<resources>
+    <string name="app_name">KinesisPowersApp</string>
+    <string name="search_hint">Type name...</string>
+    //Categories
+    <string name="Kinetics">Quinéticos</string>
+    <string name="Extrasensorials">Percepción Extrasensorial</string>
+    <string name="Magic">Magia</string>
+    <string name="Various">Otros</string>
+    // Psicokinesis
+    <string name="aerokinesis_name">Aerokinesis</string>
+    <string name="aerokinesis_definition">Consiste en la creación y dominio total del aire, esta es la más fácil
+        de aprender después de la telekinesis. Los tres pasos o partes que la constituyen, son escalones
+        muy grandes, y cada paso es más difícil que el anterior.</string>
+    <string name="aerokinesis_exercise_1_name">Ejercicio 1 - Producción del Viento</string>
+    <string name="aerokinesis_exercise_1_definition">Utilizaremos el Psi-Wheel (cuya construcción se explica en
+        el tema de la Telequinesis), pondremos el Psi-Wheel delante nuestro pero no lo moveremos a través de
+        los conocimientos telekineticos, nos soplamos en la palma de la mano y asimilamos esa sensación,
+        extendemos nuestra mano de manera que la palma de la mano quede dirigida hacia el psi Wheel, y
+        haremos notar la sensación de viento que producimos antes en nuestra mano, al principio sentirás
+        una pequeña brisa, pero poco a poco esa sensación irá aumentando, y veras como el psi Wheel se
+        mueve por el viento.</string>
+    <string name="aerokinesis_exercise_2_name">Ejercicio 2 - Dominio del Viento</string>
+    <string name="aerokinesis_exercise_2_definition">Dominar el viento es más difícil
+        que producirlo, la mejor técnica de entrenar es coger una veleta de las que se ponen para
+        indicar el sentido del viento, y que indique el sentido que tú quieras, para realizarlo haremos
+        lo siguiente:
+        Ponemos la veleta en la calle, ventana o cualquier sitio por el que pase el viento, ahora siente
+        el viento y hazlo tuyo igual que con la psi Wheel, cuando lo sientas como parte de ti muévelo en
+        el sentido que quieras, la veleta te servirá para saber si realmente el aire va hacia donde tú
+        quieres.</string>
+    <string name="aerokinesis_exercise_3_name">Ejercicio 3 - Oxigenación o Purificación del Aire</string>
+    <string name="aerokinesis_exercise_3_definition">Esta parte necesita mucha paciencia, velas y un
+        bote lo más grande posible. La oxigenación del aire es la inserción de oxígeno en un aire falto
+        de este, sabemos que si falta oxígeno, no podemos mantener encendida una llama, pues
+        intentaremos mantener una vela encendida en un lugar cerrado, la llama consumirá oxígeno,
+        si este se agota la llama se apagará, si mantenemos la llama encendida quiere decir que
+        estamos aportando oxígeno. Para mantenerla encendida:
+        Primero de todo encender la vela, meterlo en el bote cerrado y cronometra el tiempo que tarda
+        en apagarse. Metemos la vela en el bote, la encendemos, y sin cerrar el bote vamos
+        visualizando como en la llama se mete oxígeno, lo puedes visualizar como aire azul, y expulsa co2,
+        lo puedes visualizar como aire negro, cuando lo tengas asimilado tomate el tiempo necesario,
+        entonces visualizamos como el co2 que expulsa la llama va cambiando de color y se
+        va convirtiendo en aire azul (oxígeno), cuando estemos listos taparemos el bote sin dejar de
+        visualizar ese cambio, cronometra sin dejar de visualizar el tiempo que tarda la vela en
+        apagarse, si tarda mas es que vas bien, intenta mejor día a día el tiempo, hasta llegar al
+        punto en el que no se desaparezca.</string>
+    <string name="aerokinesis_exercise_4_name">Ejercicio 4 - Creación del Aire</string>
+    <string name="aerokinesis_exercise_4_definition">La creación del aire es la parte más difícil,
+        nos servirá para aumentar la presión en lugares cerrados:
+        Llenamos un plato de agua, ponemos un trozo de corcho y encima de este le ponemos una
+        vela pequeñita o un papel ardiendo, rápidamente lo tapamos con un vaso boca bajo,
+        veremos como al consumirse el oxígeno el agua es absorbida por el vaso, pues ahora debemos
+        sacarla aumentando la presión dentro del vaso:\n
+        Visualizando un punto lleno de aire por ejemplo de color azul dentro del bote, que va
+        aumentando de tamaño, el nivel de agua debe ir bajando, no desesperes si no lo consigues
+        la primera vez, con la experiencia puedes ir probando a hinchar globos que están anudados
+        ya aunque esto último es más difícil, ya que no puedes ver el interior del globo y es más
+        difícil de visualizar.</string>
+    <string name="atmokinesis_name">Atmokinesis</string>
+    <string name="atmokinesis_definition">Is the ability to manipulate the atmosphere
+        via psychic means. A user of this ability can change the weather and can cause freak weather.
+        This ability allows manipulation and creation of natural weather conditions, such as, rain,
+        thunderstorms, snow etc(…)\n
+        Atmokinesis often comes with a psychic restriction preventing manipulation of anything other
+        than weather and climate patterns, as the capability to generate holes in the ozone layer,
+        or the like, would pose the possibility of bringing harm to the user.\n
+        This ability might be connected with Aerokinesis (manipulation of air) the control of the
+        wind, Electrokinesis (manipulation of electricity), described as the control of the lightning
+        in the clouds, and Hydrokinesis (manipulation of water), through the various forms of
+        precipitation (rain, snow, sleet, hail).</string>
+    <string name="example">Esto es importante especialmente en las aplicaciones, estas deben empezar resolviendo
+        UN SOLO problema y hacerlo muy bien, no trates de hacer una app “todóloga”, porque
+        será confusa y mucho más difícil de hacer.
+        • Inicia pensando en el problema, no en la solución, por ejemplo, no pienses en “Voy a hacer
+        una app que ayude a las personas a reservar lugares en clubes nocturnos”, mejor piensa
+        “¿Cuál es la parte más incómoda de ir a un club nocturno? Ah, tener que llamar antes para
+        reservar, siempre olvido reservar”. Esto te guiará a brindar algo que la gente realmente
+        quiera y/o necesite. Observa bien tu entorno para detectar problemas que puedas
+        solucionar.
+        • De preferencia (aunque no es obligación), crea un producto que resuelva un problema
+        personal, algo que necesites pero que no exista o que en el mercado no sea lo
+        suficientemente bueno todavía, esto te mantendrá enfocado en lograr tu objetivo, puesto
+        que tu meta será solucionar algo que te beneficiará a ti también.
+        • Si tu idea ya existe, no te desanimes, quiere decir que hay un mercado para ella.
+        • Cuenta tu idea a amigos y personas que conozcas. Evalúa si realmente lo que tú crees que
+        es un problema lo es o no. Importante, al menos al inicio NO PIDAS OPINIÓN DE TUS
+        PADRES (Ellos siempre te dirán que la idea es buena o te dirán que te dejes de tonterías,
+        pero digan lo que digan nublará tu punto de vista)
+        1 Enfócate En Un Solo
+        Problema y Resuélvelo
+        Muy Bien
+        2 Evalúa Tu Idea Con
+        Personas Cercanas
+        © 2017 JESUS ERNESTO VALDEZ ALMARAL, ALMARAL ENGINEERING
+        • La opinión de tus amigos en general no es muy útil (O muy alentadores o muy negativos,
+        no hay puntos medios), pero este ejercicio te dará un punto de partida y te ayudará a
+        perder el miedo para entrevistar a desconocidos.
+        • Crea una HIPÓTESIS acerca de tu producto y el problema que resuelve, por ejemplo: “El
+        principal problema de ir a un club nocturno concurrido es tener que reservar con
+        anticipación, mucha gente no lo hace por flojera o porque no le gusta contactar a otros
+        para ese tipo de cosas”.
+        • ESCRIBE UN CUESTIONARIO para que hagas las mismas preguntas a todos, el
+        cuestionario te ayudará a conocer a tus futuros clientes, sus hábitos, sus problemas, y si tu
+        hipótesis es real o solo está en tu mente. Guarda el cuestionario, lo necesitarás para
+        después.
+        • Puede ser tan sencillo como un bosquejo a mano en una libreta.
+        • Muestra este prototipo a personas cercanas y a profesionales en desarrollo: diseñadores,
+        programadores, etc. Esto, además de ayudar en la VALIDACIÓN de tu idea, te dará
+        puntos de vista para saber si lo que quieres es realizable o no.
+        • Una app muy buena para crear este tipo de prototipos es Pop (https://marvelapp.com/
+        pop/), te ayudará a crear un prototipo en cuestión de horas o incluso minutos sin
+        necesidad de programación.
+        • Entrevista a unas 5 PERSONAS y haz mejoras, ITERA si es necesario y repite el proceso
+        hasta que estés a gusto con tu idea.
+        • Este es un prototipo un poco más detallado, creado con alguna herramienta de software:
+        Powerpoint, Photoshop, Keynote, Sketch, etc.
+        3 Crea Un Prototipo
+        Básico
+        4 Crea Un Prototipo
+        Intermedio
+        © 2017 JESUS ERNESTO VALDEZ ALMARAL, ALMARAL ENGINEERING
+        • Este prototipo va dedicado a tus POSIBLES CLIENTES, ¡Sal a la calle a mostrarlo!
+        • Si cuentas con una Mac, te recomiendo especialmente hacer prototipos con Sketch App
+        (https://www.sketchapp.com/), es un software relativamente barato y enfocado al diseño
+        de apps y páginas web, puedes probarlo por 30 días y ver si te convence.
+        • Otro software que te recomiendo (y es gratis para realizar este paso) es InVision, te</string>
+
+    <string name="claircognizance_name">Claircognizance</string>
+    <string name="claircognizance_description">Is the ability for a person to acquire
+        psychic knowledge without knowing how or why he or she knew it. The user can gain information about 
+        a person, object, place, or event through intrinsic knowledge, as in it just comes to the users mind. </string>
+    <string name="claircognizance_exercise_1_name">Exercise 1 - </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //DICTIONARY
+    <string name="dictionary_word_1_name">AAAS</string>
+    <string name="dictionary_word_1_definition">Acronym for the American Association for the Advancement
+         of Science (American Association for the Advancement of Science). Agency based in New
+         York and that groups all the official sciences that exist in the world. In 1969, on proposal
+         of the anthropologist Dr. Margaret Mead, parapsychology was accepted as science represented
+         by the Parapsychologist Association, based on the quantitative studies carried out
+         with the ESP phenomena carried out since 1927 by Dr. Joseph Banks rhine, in the Duke
+         University, and those who later joined the research of PK (Psychokinesis).</string>
+    <string name="dictionary_word_2_name">Absent Healing</string>
+    <string name="dictionary_word_2_definition">Healing that takes place when the healer is not in direct
+        contact with the person to be healed.</string>
+    <string name="dictionary_word_3_name">Abracadabra</string>
+    <string name="dictionary_word_3_definition">Kabbalistic voice that constitutes the formula
+         of magic expression to which extraordinary powers are attributed and which means
+         "Divine Expression".</string>
+    <string name="dictionary_word_4_name">Tinnitus</string>
+    <string name="dictionary_word_4_definition">Ringing in the ears. Auditory sensations in
+         absence of external stimulus. They can be interpreted as Paraphonic phenomena, voices
+        from beyond the grave, etc.</string>
+    <string name="dictionary_word_5_name"> Acupuncture</string>
+    <string name="dictionary_word_5_definition">Traditional Chinese medical practice that involves
+        sticking needles into specific locations on the body.</string>
+    <string name="dictionary_word_6_name">Adept</string>
+    <string name="dictionary_word_6_definition">Esoterically it is the name that is designated to the
+        person who is initiated in the world of magical knowledge and has come to know
+        and to master two hermetic secrets of esotericism. In Alchemy the term is used to
+        designate the person who has reached the end of his work.</string>
+    <string name="dictionary_word_7_name">Absent Sitter</string>
+    <string name="dictionary_word_7_definition">A person, not present during a sitting, on whose
+        behalf readings are given. See also Proxy Sitting.</string>
+    <string name="dictionary_word_8_name">Fortune telling</string>
+    <string name="dictionary_word_8_definition">Ability to foresee future events or
+         discover hidden things by means of Extrasensory Perception (ESP) directly
+         or using as clairvoyant support. Letters, crystal ball, coffee grounds,
+         pendulum, etc.</string>
+    <string name="dictionary_word_9_name">Advocation</string>
+    <string name="dictionary_word_9_definition">System that consists of pronouncing a formula
+         initiation by which a person declares himself a disciple and follower of an entity,
+         teaching or hermetic philosophy.</string>
+    <string name="dictionary_word_10_name">Aeromancy</string>
+    <string name="dictionary_word_10_definition">Divinatory art based on the air that is breathed.</string>
+    <string name="dictionary_word_11_name">Akashic Records</string>
+    <string name="dictionary_word_11_definition">"Memories" of all experiences since the beginning of time,
+        believed by some mystical doctrines to be stored permanently in a spiritual substance (Akasha).</string>
+    <string name="dictionary_word_12_name">Agent</string>
+    <string name="dictionary_word_12_definition">Person who attempts to communicate information to
+        another in an ESP experiment. The subject in a psychokinesis experiment. Person who is the
+        focus of poltergeist activity.</string>
+    <string name="dictionary_word_13_name">Soul</string>
+    <string name="dictionary_word_13_definition">Metaphysical essence of the human being that constitutes the
+         Spiritual breath that activates the life of man. It is the Nephesh of the Hebrews and the Psyche
+         of the Greeks.</string>
+    <string name="dictionary_word_14_name">Alomancy</string>
+    <string name="dictionary_word_14_definition">Synonym of saltiness. It is understood by saltiness,
+         the divination by means of salt.</string>
+    <string name="dictionary_word_15_name">Hallucination</string>
+    <string name="dictionary_word_15_definition">Perception of something that does not materially exist and
+         that occurs in the subject by disturbance of the senses.</string>
+    <string name="dictionary_word_16_name">Alien Abduction Experience</string>
+    <string name="dictionary_word_16_definition">Reported experiences of being abducted by alien creatures,
+        often into spacecraft. Abductees often experience lost time and suffer loss of memory. When
+        memories are recovered, often using hypnotic regression, abductees may report that surgical
+        operations were performed on them. See also temporal lobe activity.</string>
+    <string name="dictionary_word_17_name">Amnesia</string>
+    <string name="dictionary_word_17_definition">Total or partial loss of memory.</string>
+    <string name="dictionary_word_18_name">Angels</string>
+    <string name="dictionary_word_18_definition">Benevolent spiritual beings who help people in need.</string>
+    <string name="dictionary_word_19_name">Artefact</string>
+    <string name="dictionary_word_19_definition">In parapsychology, false evidence of paranormal
+        phenomena, due to some extraneous normal influence.</string>
+    <string name="dictionary_word_20_name">Aquelarre</string>
+    <string name="dictionary_word_20_definition">Term derived from the basque voices Ake-Larren-Larrea,
+         which means: meeting in the meadow of the goat. Witch meeting. Synonym of SABBAT. </string>
+    <string name="dictionary_word_21_name">Aruspices</string>
+    <string name="dictionary_word_21_definition">Priests of ancient Rome whose mission consisted of
+         predict the future through the viscera of the victims of the sacred sacrifices.</string>
+    <string name="dictionary_word_22_name">Asynergy</string>
+    <string name="dictionary_word_22_definition">Alteration of the faculty of association of movements
+         elementals during the performance of complex acts.</string>
+    <string name="dictionary_word_23_name">Asitism</string>
+    <string name="dictionary_word_23_definition">Voluntary fasting that lasts sometimes indefinitely,
+         especially in acts of great mysticism.</string>
+    <string name="dictionary_word_24_name">Aura</string>
+    <string name="dictionary_word_24_definition">Emanation generally colored, perceived by certain
+         clairvoyants, around the human body and sometimes, around animals and plants.</string>
+    <string name="dictionary_word_25_name">Spontaneous self-combustion</string>
+    <string name="dictionary_word_25_definition">See Biopirogenesis.</string>
+    <string name="dictionary_word_26_name">Autohypnosis</string>
+    <string name="dictionary_word_26_definition">Technique developed for the provocation of the hypnotic state
+         produced by the individual himself. It is an autosuggestion.</string>
+    <string name="dictionary_word_27_name">Self-description</string>
+    <string name="dictionary_word_27_definition">Notice that we receive, usually in dreams, from something
+        that will happen to us.</string>
+    <string name="dictionary_word_28_name">Autoscopy</string>
+    <string name="dictionary_word_28_definition">Inner vision or ability to see one\'s own internal
+        organs of the body.</string>
+    <string name="dictionary_word_29_name">Autosuggestion</string>
+    <string name="dictionary_word_29_definition">Psychic phenomenon in which our imaginative mind
+         creates a fixed idea that takes shape and settles in our psyche in the form of obsession, until
+         become a subjective reality influencing our personality.</string>
+    <string name="dictionary_word_30_name">Bicorporeity</string>
+    <string name="dictionary_word_30_definition">Synonym of Bilocation.</string>
+    <string name="dictionary_word_31_name">Bilocation</string>
+    <string name="dictionary_word_31_definition">Simultaneous presence of a person, in two different
+         places. Parapsychology has shown that certain cases of bilocation are no more than
+         cases of telepathy.</string>
+    <string name="dictionary_word_32_name">Biofotogenesis</string>
+    <string name="dictionary_word_32_definition">Modification of the cellular tissues of the human
+        organism that causes them to emit flashes of light of their own.</string>
+    <string name="dictionary_word_33_name">Biopause</string>
+    <string name="dictionary_word_33_definition">The ability to control and neutralize biological functions.</string>
+    <string name="dictionary_word_34_name">Biopirogenesis</string>
+    <string name="dictionary_word_34_definition">Biological self-production of fires in the person\'s own
+         body who causes the combustion of the organism because of an internal ignition that
+         manifested in the form of bluish flames that arise from the different natural orifices of the
+         body and cause the Spontaneous Human Combustion (SHC).</string>
+    <string name="dictionary_word_35_name">Biotic</string>
+    <string name="dictionary_word_35_definition">Synonym for thelergy; physical energy.</string>
+    <string name="dictionary_word_36_name">Astrology</string>
+    <string name="dictionary_word_36_definition">A theory and practice which attempts to identify the ways in
+        which astronomical events are correlated with events on earth (e.g., with an individual\'s
+        personality and biography, or with social and political trends).</string>
+    <string name="dictionary_word_37_name">Banshee</string>
+    <string name="dictionary_word_37_definition">In Gaelic belief, a female entity who heralds a death
+        by groaning and screaming.</string>
+    <string name="dictionary_word_38_name">Crystal ball</string>
+    <string name="dictionary_word_38_definition">Sphere or oval of crystal used in crystallomancy.</string>
+    <string name="dictionary_word_39_name">Faraday camera</string>
+    <string name="dictionary_word_39_definition">It is a metal enclosure, cage or camera according to the
+    uses, in which inside\'s electric or electromagnetic emissions can not penetrate. It was designed
+    by the English physicist and chemist Faraday.</string>
+    <string name="dictionary_word_40_name">PSI Field</string>
+    <string name="dictionary_word_40_definition">In addition to the gravitational, magnetic and electric fields
+         the existence of a PSI field has been proposed internationally, which would explain the correlation between
+         the physical factors that intervene in the paranormal (J.L. Jordán Peña).</string>
+    <string name="dictionary_word_41_name">Zener Cards</string>
+    <string name="dictionary_word_41_definition">Card game consisting of five different forms:
+         star, circle, waves (three parallel wavy lines), square and cross; the game consists of
+         25 letters. They were used by Dr. J.B. Rhine in his telepathy experiments and have
+         become one of the most used instruments in scientific Parapsychology.</string>
+    <string name="dictionary_word_42_name">Cartomancy</string>
+    <string name="dictionary_word_42_definition">Divination of the future through cards or cards.</string>
+    <string name="dictionary_word_43_name">Haunted House</string>
+    <string name="dictionary_word_43_definition">Popular name received by Poltergeist cases.</string>
+    <string name="dictionary_word_44_name">Cataplexia</string>
+    <string name="dictionary_word_44_definition">Physiological state of stupor motivated by fear that
+         animals suffer because they have been placed in an unusual position in their usual way of
+         life.</string>
+    <string name="dictionary_word_45_name">Cenesthesia</string>
+    <string name="dictionary_word_45_definition">The ability to provoke internal hallucinations in the
+         own body. This phenomenon usually occurs in cases of possession in which cenesthetically
+         the individual believes to be devoured internally by an "evil entity" and suffers the consequences
+         as if the hallucinations were real.</string>
+    <string name="dictionary_word_46_name">Cenesthetic</string>
+    <string name="dictionary_word_46_definition">Concerning the feeling experienced by the individual of
+         his own existence.</string>
+    <string name="dictionary_word_47_name">Chakras</string>
+    <string name="dictionary_word_47_definition">According to Eastern philosophy they are neuralgic centers of
+         the person or spiritual energy points located in the astral body that have correlation
+         in the center of the spinal cord and in the nerve plexuses of the human body.</string>
+    <string name="dictionary_word_48_name">Kinetic</string>
+    <string name="dictionary_word_48_definition">Term that identifies the science of movements.</string>
+    <string name="dictionary_word_49_name">Psychic Surgery</string>
+    <string name="dictionary_word_49_definition">Relative surgical technique that allows a healer,
+         a gifted, to be able to surgically intervene any pathological alteration without any instrument.
+         An example of this are the famous psychic operations that are carried out in the Philippines
+         and in Brazil.</string>
+    <string name="dictionary_word_50_name">Clairvoyance</string>
+    <string name="dictionary_word_50_definition">Natural or acquired psychic power to being able to see
+         through dense matter without distance obstacles or time.</string>
+    <string name="dictionary_word_51_name">Clariaudience</string>
+    <string name="dictionary_word_51_definition">Psychic ability to be able to hear at any distance,
+         including ultraphysical sounds.</string>
+    <string name="dictionary_word_52_name">Criptesthesia</string>
+    <string name="dictionary_word_52_definition">Term devised by Charles Richet to designate the
+         clairvoyance. At present it is in disuse.</string>
+    <string name="dictionary_word_53_name">Cryptomnesia</string>
+    <string name="dictionary_word_53_definition">Paranormal access to the depths of the subconscious,
+         to evoke memories and subliminal perceptions that are contained there.</string>
+    <string name="dictionary_word_54_name">Astral Body</string>
+    <string name="dictionary_word_54_definition">A term used by occultists, spiritualists and
+        theosophists to refer to a supposed "double" of the person\'s physical body. The astral
+        body is believed to be separable from the physical body during astral projection
+        (out of body experience) and at death.</string>
+    <string name="dictionary_word_55_name">Cumberlandism</string>
+    <string name="dictionary_word_55_definition">It consists essentially in perceiving unconscious
+         movements of a subject whose thought one wants to know. It was presented for the first time
+         by the English illusionist and conjuror Cumberland.</string>
+    <string name="dictionary_word_56_name">Quackery</string>
+    <string name="dictionary_word_56_definition">Practice of curing diseases by no means
+         approved by legal medicine. System used by those who say they have special
+         faculties to cure physical ailments.</string>
+    <string name="dictionary_word_57_name">Quack</string>
+    <string name="dictionary_word_57_definition">Sensitive subject with faculties that are on the margin
+         of Biology, which can still diagnose a disease, how it can cure, or alleviate
+         imposition of hands, by suggestion, prayers, etc. (In this field there is a lot of fraud).</string>
+    <string name="dictionary_word_58_name">Deja-Vu</string>
+    <string name="dictionary_word_58_definition">Traveling clairvoyance phenomenon whose etymology
+         means "Already seen". It is created by neurological processes that produce a large
+         intensification of consciousness, fact that provides the feeling of having been before
+         in a certain place, perhaps in "another life", according to the followers of reincarnation\'s
+        philosophy, based on the fact of prenatal awareness.</string>
+    <string name="dictionary_word_59_name">Dermophilia</string>
+    <string name="dictionary_word_59_definition">Appearance on various points of the skin, in
+         sensitive individuals, of certain signs, spots or drawings of paranormal origin.</string>
+    <string name="dictionary_word_60_name">Dermograms</string>
+    <string name="dictionary_word_60_definition">Graphics, symbols or drawings marked on the skin
+         because of an epidermal irritation, caused almost always by the rupture of the capillaries.</string>
+    <string name="dictionary_word_61_name">Dermooptic</string>
+    <string name="dictionary_word_61_definition">Capacity that some people have to be able to appreciate
+         optical images through their skin, especially the fingertips.</string>
+    <string name="dictionary_word_62_name">Splitting</string>
+    <string name="dictionary_word_62_definition">State of division of the personality. It is the faculty
+         of being able to move our astral body, to act in a place far from the physical body.</string>
+    <string name="dictionary_word_63_name">Diapsychia</string>
+    <string name="dictionary_word_63_definition">Old denomination of the Telepathy.</string>
+    <string name="dictionary_word_64_name">Charm</string>
+    <string name="dictionary_word_64_definition">A spell or object possessing magic power.</string>
+    <string name="dictionary_word_65_name">Down Through</string>
+    <string name="dictionary_word_65_definition">Method of perception of Zener cards "down and through",
+         used in ESP (Extra-Sensory Perception) in the quantitative experimentation of clairvoyance.</string>
+    <string name="dictionary_word_66_name">Duke University</string>
+    <string name="dictionary_word_66_definition">Durham Study Center, North Carolina,
+         United States of America (University) where the first official parapsychology
+         laboratory was founded in 1930.</string>
+    <string name="dictionary_word_67_name">Ecto-Coloplasmia</string>
+    <string name="dictionary_word_67_definition">Modeling phenomenon of ectoplasm by means of the
+         unconscious, forming figures, faces and various objects.</string>
+    <string name="dictionary_word_68_name">Ectoplasia</string>
+    <string name="dictionary_word_68_definition">Synonym of Telergy and Materialization. Term created
+         by Myers in 1904 to define the materialized bioenergetic or teleneric substance.</string>
+    <string name="dictionary_word_69_name">Ectoplasm</string>
+    <string name="dictionary_word_69_definition">Paranormal formation of a substance of unknown
+         nature that usually emanates from the same mouth of the medium.</string>
+    <string name="dictionary_word_70_name">Outpour</string>
+    <string name="dictionary_word_70_definition">Emanation of vitality attributable to the magnetism of
+         body. Synonym for aura.</string>
+    <string name="dictionary_word_71_name">Christian Science</string>
+    <string name="dictionary_word_71_definition">A religious healing movement founded by Mary Baker
+        Eddy. Rejects orthodox medical practice.</string>
+    <string name="dictionary_word_72_name">Automatic Writing</string>
+    <string name="dictionary_word_72_definition">Also called psychography; writing that some
+         people in a semi-trance state can carry out, even being able to do foreign languages,
+         totally unknown to the same subject.</string>
+    <string name="dictionary_word_73_name">Eidetism</string>
+    <string name="dictionary_word_73_definition">Faculty that allows a subject to represent (by mnemic
+         evocation) images with a high level of clarity or sharpness.</string>
+    <string name="dictionary_word_74_name">Elohim</string>
+    <string name="dictionary_word_74_definition">God\'s proper name and for which he is still designated
+         in Freemasonry.</string>
+    <string name="dictionary_word_75_name">Escotography</string>
+    <string name="dictionary_word_75_definition">Proposed denomination for the photographic images
+        printing phenomenon on sensitive emulsion, in the absence of light and without the aid of a camera or
+         any optical device.</string>
+    <string name="dictionary_word_76_name">ESP</string>
+    <string name="dictionary_word_76_definition">Abbreviation for Extra-Sensory Perception. In Spanish it is known
+         by the initials P.E.S. o Extrasensory Perception.</string>
+    <string name="dictionary_word_77_name">Spectrum</string>
+    <string name="dictionary_word_77_definition">Apart from its physical acceptance, which refers to a range of
+         frequencies, is also used to designate an apparition or the phenomenon known as ghosts.</string>
+    <string name="dictionary_word_78_name">Spiritualism</string>
+    <string name="dictionary_word_78_definition">Doctrine that starts from the basis of a philosophical
+         scientific and moral background, that the human being is made up of three elements: body, spirit and a
+         link called perispirit. Parapsychology studies spiritualism in depth, especially
+         those mediums of physical effects.</string>
+    <string name="dictionary_word_79_name">Spiritualists</string>
+    <string name="dictionary_word_79_definition">Relative to spiritualism.</string>
+    <string name="dictionary_word_80_name">Stigmata</string>
+    <string name="dictionary_word_80_definition">Figurative or imitative skin signs that appear on
+         the human body. They are alterations of psychosomatic character.</string>
+    <string name="dictionary_word_81_name">Etrobia</string>
+    <string name="dictionary_word_81_definition">Walk through the air Levitation of a person without
+        human intervention.</string>
+    <string name="dictionary_word_82_name">Exteriorization</string>
+    <string name="dictionary_word_82_definition">Simultaneous appearance of a person in two
+         different places and at the same time.</string>
+    <string name="dictionary_word_83_name">Extrasensory</string>
+    <string name="dictionary_word_83_definition">That goes beyond the physical senses.</string>
+    <string name="dictionary_word_84_name">Extrasensory Faculties</string>
+    <string name="dictionary_word_84_definition">It refers to those faculties that allow us to enter
+         in contact or being subjects of paranormal experiences, manifested through different ways to
+         those of the physical senses.</string>
+    <string name="dictionary_word_85_name">Fading</string>
+    <string name="dictionary_word_85_definition">Sudden phenomenon of the momentary disappearance of
+         the radiesthetic effluvia.</string>
+    <string name="dictionary_word_86_name">Ghosts</string>
+    <string name="dictionary_word_86_definition">Appearances, unfolding, bilocations, astral
+         projection, etc. It can also be a telepathic hallucination as explained in almost all
+         treatises of Parapsychology.</string>
+    <string name="dictionary_word_87_name">PSI Phenomenon</string>
+    <string name="dictionary_word_87_definition">They are all the phenomena that occur as a result
+         of the PSI action in all concepts. It covers all extrasensory perception C.E.S.P.
+         Knowledge PSI-GAMMA and PSI-KAPPA.</string>
+    <string name="dictionary_word_88_name">Physical phenomena</string>
+    <string name="dictionary_word_88_definition">Synonym for objective phenomena.</string>
+    <string name="dictionary_word_89_name">Paranormal phenomena</string>
+    <string name="dictionary_word_89_definition">They are the usual, logical, whether psychological or
+         physical, due to forces that seem intelligent, or to faculties unknown yet
+         of the human mind.</string>
+    <string name="dictionary_word_90_name">Objective Phenomena or PSI-KAPPA (PK)</string>
+    <string name="dictionary_word_90_definition">Are those phenomena of a paranormal nature manifested
+         through effects of physical order: psychokinesis, ectoplasmia, psychophonies, etc.</string>
+    <string name="dictionary_word_91_name">Subjective phenomena or PSI-GAMMA (PG)</string>
+    <string name="dictionary_word_91_definition">They are those phenomena of paranormal nature, manifested
+         through effects of mental order, of our own psyche: telepathy, clairvoyance,
+         precognition, etc.</string>
+    <string name="dictionary_word_92_name">Fitomagnetism</string>
+    <string name="dictionary_word_92_definition">It is said of the magnetism of the vegetable kingdom.</string>
+    <string name="dictionary_word_93_name">Fitometragraphy</string>
+    <string name="dictionary_word_93_definition">Obtaining spiritual photographs of beings belonging
+         to another dimension and photographs of the so-called astral body of people split into extracorporal
+         experiences.</string>
+    <string name="dictionary_word_94_name">Photoforia</string>
+    <string name="dictionary_word_94_definition">This voice has been proposed for the genesis of paranormal light
+         phenomena (bright flashes, bright spheres, etc.).</string>
+    <string name="dictionary_word_95_name">Photogenesis</string>
+    <string name="dictionary_word_95_definition">Production of paranormal lights.</string>
+    <string name="dictionary_word_96_name">Photopsia</string>
+    <string name="dictionary_word_96_definition">Visual hallucination of elementary character. The subject perceives
+         flashes of light or sees the whole field of vision dyed a single color.</string>
+    <string name="dictionary_word_97_name">Unconscious Forces</string>
+    <string name="dictionary_word_97_definition">Potentials catalyzed by the medium in order to perform
+         the proposed phenomenon.</string>
+    <string name="dictionary_word_98_name">Geomancy</string>
+    <string name="dictionary_word_98_definition">Divination procedure by examining the projecting
+         figures formed on a table or a sieve, earth, dust, etc.</string>
+    <string name="dictionary_word_99_name">Glossolalia</string>
+    <string name="dictionary_word_99_definition">Phenomenon in which a medium under trance speaks or writes in a
+         foreign language, which ignores in normal state.</string>
+    <string name="dictionary_word_100_name">Gnosis</string>
+    <string name="dictionary_word_100_definition">Phenomenon of acquisition of knowledge in a state of mysticism
+         by ecstatic way, without mediating any intellectual or pedagogical system.</string>
+    <string name="dictionary_word_101_name">Geoecia</string>
+    <string name="dictionary_word_101_definition">Name by what is called Black Magic.</string>
+    <string name="dictionary_word_102_name">Graphology</string>
+    <string name="dictionary_word_102_definition">Science that allows to determine the character, health,
+         trends etc. of an individual, through the study of his writing.</string>
+    <string name="dictionary_word_103_name">Grimoire</string>
+    <string name="dictionary_word_103_definition">Generic name of the book used by the Magi
+         and occultists as a manual.</string>
+    <string name="dictionary_word_104_name">Guru</string>
+    <string name="dictionary_word_104_definition">Spiritual instructor, also called master.</string>
+    <string name="dictionary_word_105_name">Hagiography</string>
+    <string name="dictionary_word_105_definition">Studies made to the lives of the saints.</string>
+    <string name="dictionary_word_106_name">Hematograms</string>
+    <string name="dictionary_word_106_definition">Strange drawings, symbols and graphics marked in the
+         skin (or on canvases that have been attached to it) by blood effusion through
+         the pores.</string>
+    <string name="dictionary_word_107_name">Heteroscopy</string>
+    <string name="dictionary_word_107_definition">GIt is usually an hallucination. In
+         Parapsychology refers to the vision of the internal organs of another person.</string>
+    <string name="dictionary_word_108_name">Hyaloscopy or Catopthomancy</string>
+    <string name="dictionary_word_108_definition">Divinatory procedure by means of a
+         crystal ball, mirror or any reflective surface.</string>
+    <string name="dictionary_word_109_name">Hiloplasty</string>
+    <string name="dictionary_word_109_definition">Paranormal action that is characterized by
+         materialization and dematerialization of physical bodies, which can thus penetrate
+         hermetic enclosures.</string>
+    <string name="dictionary_word_110_name">Hiloscopy</string>
+    <string name="dictionary_word_110_definition">Voice proposed by Boirac for those
+         paranormal phenomena in which matter interacts with the mind, as is the
+         case of dowsing.</string>
+    <string name="dictionary_word_111_name">Hyperacusis</string>
+    <string name="dictionary_word_111_definition">Hyperesthesia limited to the perception of sounds.</string>
+    <string name="dictionary_word_112_name">Hyperaphy</string>
+    <string name="dictionary_word_112_definition">Tactile hyperesthesia, very marked epidermal sensitivity.</string>
+    <string name="dictionary_word_113_name">Hyperesthesia</string>
+    <string name="dictionary_word_113_definition">Unusual sensory acuity in special circumstances.
+         The hyperesthetic perception in an amazing sharpness that can reach our normal sensations.</string>
+    <string name="dictionary_word_114_name">Hypergeusia</string>
+    <string name="dictionary_word_114_definition">Term referring to the hyperesthetic sensitivity to recruitment
+         of gustatory stimuli.</string>
+    <string name="dictionary_word_115_name">Hypermnesia</string>
+    <string name="dictionary_word_115_definition">Phenomenon of exaltation of memory, produced in
+         trance state and by hypermnesic persons with faculties to sharpen the psyche, up to
+         remember with the most accurate details facts and knowledge lost in the memory of the
+         time.</string>
+    <string name="dictionary_word_116_name">Hipermnesoglosia</string>
+    <string name="dictionary_word_116_definition">Capacidad de recordar, con todo su vigor primitivo,
+        una lengua olvidada.</string>
+    <string name="dictionary_word_117_name">Hyperosmia</string>
+    <string name="dictionary_word_117_definition">Hyperesthetic sensitivity of subliminal olfactory
+        uptake.</string>
+    <string name="dictionary_word_118_name">Hypersensitive</string>
+    <string name="dictionary_word_118_definition">See medium, paragnosta, etc.</string>
+    <string name="dictionary_word_119_name">Hypnosis</string>
+    <string name="dictionary_word_119_definition">Provoked artificial dream. Suggestion and
+         auto-suggestion are related to hypnosis, but without the subject having to be
+         necessarily asleep.</string>
+    <string name="dictionary_word_120_name">Hypnotism</string>
+    <string name="dictionary_word_120_definition">Set of phenomena that constitute hypnosis.</string>
+    <string name="dictionary_word_121_name">Hipotaxic</string>
+    <string name="dictionary_word_121_definition">Semi-hypnotic state, technique similar to that of fascination.</string>
+    <string name="dictionary_word_122_name">IAO</string>
+    <string name="dictionary_word_122_definition">Etymologically, breath of life.</string>
+    <string name="dictionary_word_123_name">Ideofony</string>
+    <string name="dictionary_word_123_definition">Reception of music, bells, voices, noises,
+         etc. without apparent cause and of paranormal origin.</string>
+    <string name="dictionary_word_124_name">Ideoplasty</string>
+    <string name="dictionary_word_124_definition">Paranormal faculty attributed to thought and that
+         exercises an action on the matter. They are forms of thought that sometimes
+         impress, for example, sensitized photographic plates.</string>
+    <string name="dictionary_word_125_name">Delusion</string>
+    <string name="dictionary_word_125_definition">False interpretation of a reality.</string>
+    <string name="dictionary_word_126_name">Infestation</string>
+    <string name="dictionary_word_126_definition">In houses or places. Synonym of poltergeist</string>
+    <string name="dictionary_word_127_name">Immortality</string>
+    <string name="dictionary_word_127_definition">Property that has a being to continue existing
+         indefinitely, eternally, without corruption or death.</string>
+    <string name="dictionary_word_128_name">Intuition</string>
+    <string name="dictionary_word_128_definition">Perception or instant knowledge of a truth
+         or idea without the participation of any reasoning.</string>
+    <string name="dictionary_word_129_name">Invocation</string>
+    <string name="dictionary_word_129_definition">Any prayer is like an invocation.</string>
+    <string name="dictionary_word_130_name">Jettatura</string>
+    <string name="dictionary_word_130_definition">Name given to malign influences or
+         negatives produced through the look of the Sorcerer. Synonym of Evil eye.</string>
+    <string name="dictionary_word_131_name">Ju-Ju</string>
+    <string name="dictionary_word_131_definition">Fetish name (amulet) used in the
+         West African tribes.</string>
+    <string name="dictionary_word_132_name">Kamarupa</string>
+    <string name="dictionary_word_132_definition">According to the Spiritualists, entity or operator,
+         provocateur of incoherent and funny disorders in the course of sessions.</string>
+    <string name="dictionary_word_133_name">Kappa</string>
+    <string name="dictionary_word_133_definition">In Parapsychology it is the term derived from
+         Greek meaning "matter". See Psi-Kappa.</string>
+    <string name="dictionary_word_134_name">Karma</string>
+    <string name="dictionary_word_134_definition">Absolute universal law of compensatory
+        retribution between cause and effect based on the mechanism of action-reaction.</string>
+    <string name="dictionary_word_135_name">Kinesis</string>
+        <string name="dictionary_word_135_definition">Greek voice that means movement and in medicine
+         it designates the action of the central nervous system manifested through the muscles. In
+         Parapsychology is applied to the term Psychokinesia (Psycho-Kinesia) to define the group
+         of paraphysical phenomena in which the mind inflicts dynamically on matter and
+         it sets it in motion.</string>
+    <string name="dictionary_word_136_name">Letargy</string>
+    <string name="dictionary_word_136_definition">Continuous and pathological sleep.</string>
+    <string name="dictionary_word_137_name">Levitation</string>
+    <string name="dictionary_word_137_definition">Lifting of heavy objects in particular
+         of the human body without intervention of any kind of force or physical agents.</string>
+    <string name="dictionary_word_138_name">Lycanthropy</string>
+    <string name="dictionary_word_138_definition">From the Greek Lycos, "wolf", and Anthropos, "man".
+         Psychic disorder, a variety of zoanthropy, in which the patient believes he is a wolf.</string>
+    <string name="dictionary_word_139_name">Litomagnetism</string>
+    <string name="dictionary_word_139_definition"> Magnetism that certain minerals possess and some
+         precious stones</string>
+    <string name="dictionary_word_140_name">Litotelergy</string>
+    <string name="dictionary_word_140_definition">Mysterious launch of stones in several
+         directions without observable physical cause.</string>
+    <string name="dictionary_word_141_name">Logurgy</string>
+    <string name="dictionary_word_141_definition">Certain healers are considered to be loggis
+         and surgeons who work by means of the power of the mind. Logurgy is in charge
+         of study said phenomenology.</string>
+    <string name="dictionary_word_142_name">Lucidity</string>
+    <string name="dictionary_word_142_definition">Popular term that indicates clairvoyance or telepathy.</string>
+    <string name="dictionary_word_143_name">Mancies</string>
+    <string name="dictionary_word_143_definition">Divinatory techniques, some very ancient, most of them
+         obtained by different means, such as: the crystal ball, the stripes of the hand,
+         the letters, etc.</string>
+    <string name="dictionary_word_144_name">Spiritualist Manifesto</string>
+    <string name="dictionary_word_144_definition"> Act by which the spirit reveals its presence.</string>
+    <string name="dictionary_word_145_name">Materializations</string>
+    <string name="dictionary_word_145_definition">Synonym of ectoplasm. Alleged formations of
+         isolated organs or complete beings, sometimes humanoids, animals, etc.</string>
+    <string name="dictionary_word_146_name">Meditation</string>
+    <string name="dictionary_word_146_definition">Mental process of reflection that allows through observation
+         and analysis, knowing the essence of concrete things, or abstract speculation</string>
+    <string name="dictionary_word_147_name">Medium</string>
+    <string name="dictionary_word_147_definition">mediumship</string>
+    <string name="dictionary_word_148_name">Mediumship</string>
+    <string name="dictionary_word_148_definition">Spiritualists consider medium to every person who in
+         Trance state can communicate with spirits, which inhabit another dimension.</string>
+    <string name="dictionary_word_149_name">Mind</string>
+    <string name="dictionary_word_149_definition">Intellectual power of the soul that encompasses the designs,
+         the thought, the purposes and the will.</string>
+    <string name="dictionary_word_150_name">Talking Table (Tiptology)</string>
+    <string name="dictionary_word_150_definition">Table normally tripod, used to obtain
+         communications with the supraphysical world in the spiritualistic sessions.</string>
+    <string name="dictionary_word_151_name">Metaphysics</string>
+    <string name="dictionary_word_151_definition">Part of philosophy, which deals with being as such,
+         of its properties, principles and primary causes.</string>
+    <string name="dictionary_word_152_name">Metagnomy</string>
+    <string name="dictionary_word_152_definition">Synonym for clairvoyance.</string>
+    <string name="dictionary_word_153_name">Touch Metagnomy</string>
+    <string name="dictionary_word_153_definition">It is about supernormal knowledge through the
+         touch. Synonym of Psychoscopy or psychometry.</string>
+    <string name="dictionary_word_154_name">Metapsychic</string>
+    <string name="dictionary_word_154_definition">Science that studies all kinds of physical phenomena
+         and psychophysicists who exceed the limits of normal consciousness due to the forces that
+         seem intelligent or to unknown faculties of the mind. (Charles Richet).</string>
+    <string name="dictionary_word_155_name">Metasomoscopy</string>
+    <string name="dictionary_word_155_definition">Faculty that have some sensitives that allow them to
+         see inside the human body.</string>
+    <string name="dictionary_word_156_name">Mimicry</string>
+    <string name="dictionary_word_156_definition">Property that some animals and plants possess
+         to change shapes and colors resembling other beings, or certain inanimate objects
+         among those who live.</string>
+    <string name="dictionary_word_157_name">Monition</string>
+    <string name="dictionary_word_157_definition">Manifestation, generally vague and affective,
+         of a paranormal awareness. It is a spontaneous extrasensory perception.</string>
+    <string name="dictionary_word_158_name">Monoideism</string>
+    <string name="dictionary_word_158_definition">State of mind when it is occupied by a single idea.</string>
+    <string name="dictionary_word_159_name">Pneumophonia</string>
+    <string name="dictionary_word_159_definition">Phenomena of paraphonic character (emission of voices and musical
+         melodies) that the spiritualists attribute to the direct action of the operators.</string>
+    <string name="dictionary_word_160_name">Necromancy</string>
+    <string name="dictionary_word_160_definition">Invocation to the dead to know the future, whatever
+         the method is used.</string>
+    <string name="dictionary_word_161_name">Nimbo</string>
+    <string name="dictionary_word_161_definition">Halo, fringe, circle or luminous crown, which surrounds
+         the head of a divinity or saint.</string>
+    <string name="dictionary_word_162_name">Evocative object</string>
+    <string name="dictionary_word_162_definition">It is the object that the sensitive one places between his hands
+         or before his front, to give way to the manifestation of extrasensory perceptions in
+         relation to it.</string>
+    <string name="dictionary_word_163_name">Occultism</string>
+    <string name="dictionary_word_163_definition">Science, or school of thought, from the middle ages, that
+         study the mysteries of nature at the same time as the psychic powers latent in the
+         human being. In the popular language Occultism is equivalent to magic.</string>
+    <string name="dictionary_word_164_name">Odic</string>
+    <string name="dictionary_word_164_definition">It is equivalent to energy, strength; with this term Baron Karl von
+         Reichenbach (1788-1869) came to explain the existence of the human aura and some other psychobiological
+         phenomena.</string>
+    <string name="dictionary_word_165_name">Brain waves</string>
+    <string name="dictionary_word_165_definition">Electric rhythms generated in the nervous tissue of the brain.
+         It has been classified into four ranges: Alpha of 8 to 12 cycles / second; Beta frequencies greater than 13
+         cycles / second; Delta 1-4 cycles / second; and Theta of 4-8 cycles / second.</string>
+    <string name="dictionary_word_166_name">Mental Waves</string>
+    <string name="dictionary_word_166_definition">Supposed waves emitted by the brain, constituted
+         in the support of telepathic communications.</string>
+    <string name="dictionary_word_167_name">Oniric</string>
+    <string name="dictionary_word_167_definition">It is said of how much it relates to dreams and
+         certain imaginative situations of an unconscious nature.</string>
+    <string name="dictionary_word_168_name">Oniromancy</string>
+    <string name="dictionary_word_168_definition">Divination procedure through dreams.
+         Art of knowing how to interpret dreams.</string>
+    <string name="dictionary_word_169_name">Mental Orientation</string>
+    <string name="dictionary_word_169_definition">In dowsing, orientation of the mind towards the
+         object of the search or investigation.</string>
+    <string name="dictionary_word_170_name">Osmogenesis</string>
+    <string name="dictionary_word_170_definition">Production of aromatic substances of paranormal
+        origin.</string>
+    <string name="dictionary_word_171_name">Ouija</string>
+    <string name="dictionary_word_171_definition">Name derived from affirmative conjunctions
+         of two languages: the French word Oui and the German Ja, both mean "yes". Is the
+         instrument consisting of a circular "master" or small wooden board with mobility
+         to move on a surface on which all the letters of the
+         alphabet and numbers from 0 to 9 are.</string>
+    <string name="dictionary_word_172_name">Sheeps</string>
+    <string name="dictionary_word_172_definition">EIn parapsychology it is the name given to the
+         sensitive people who show a good predisposition to undergo the
+         Experimentation ESP.</string>
+    <string name="dictionary_word_173_name">Palingenesis</string>
+    <string name="dictionary_word_173_definition">Regeneration, resurrection, reincarnation,
+         transformation, renovation.</string>
+    <string name="dictionary_word_174_name">Pandemonium</string>
+    <string name="dictionary_word_174_definition">This term defines the concrete fact in
+         which an avalanche or set of noises is produced in a house at a certain time and
+         that causes, suddenly, a total disorder in a mysterious way. The difference with the
+         poltergeist, is that the Pandemonium has malefic character.</string>
+    <string name="dictionary_word_175_name">Pantomnesia</string>
+    <string name="dictionary_word_175_definition">It is said of the memory of the unconscious.</string>
+    <string name="dictionary_word_176_name">Parabiothermia</string>
+    <string name="dictionary_word_176_definition">Parabiological phenomenon that consists in controlling
+         paranormally and at will body temperature.</string>
+    <string name="dictionary_word_177_name">Paracardism</string>
+    <string name="dictionary_word_177_definition">Parabiological phenomenon that consists in controlling
+         at will blood circulation and heart rate, at the precise moment.</string>
+    <string name="dictionary_word_178_name">Parasciences</string>
+    <string name="dictionary_word_178_definition">Any field of human knowledge that try to
+         analyze aspects of nature that are inaccessible to the current scientific method: like
+         Parapsychology, Ufology, etc.</string>
+    <string name="dictionary_word_179_name">Paragnosta</string>
+    <string name="dictionary_word_179_definition">It refers to a sensitive person who has
+         an unusual capacity for extrasensory perception.</string>
+    <string name="dictionary_word_180_name">Paranormal</string>
+    <string name="dictionary_word_180_definition">Term devised by W. Carrington to replace
+         the supernormal term totally in disuse.</string>
+    <string name="dictionary_word_181_name">Parapsicobiophysic</string>
+    <string name="dictionary_word_181_definition">Synonym term of parapsychology referring to
+         the materialistic form of knowledge of paranormal phenomena, that from the
+         agnostic perspective, is studied in some Eastern European countries.</string>
+    <string name="dictionary_word_182_name">Parapsychology</string>
+    <string name="dictionary_word_182_definition">According to Dr. J. B. Rhine, Parapsychology is
+         the branch attached to psychology, and deals with studying psychic, psychophysical, and
+         paraphysicians. Parapsychology is the branch of knowledge that investigates those
+         interrelationships between man and his means: biological, physical, and social.
+         (Currently it is also called Parapsicobiofísica).</string>
+    <string name="dictionary_word_183_name">Paratherapy</string>
+    <string name="dictionary_word_183_definition">Any phenomenon that is linked to the
+         healers, psychic surgeons, etc.</string>
+    <string name="dictionary_word_184_name">Radiesthetic pendulum</string>
+    <string name="dictionary_word_184_definition">Species of plumb or metal pendulum used
+         by the dowser to find what you are looking for.</string>
+    <string name="dictionary_word_185_name">Extrasensory perception (ESP)</string>
+    <string name="dictionary_word_185_definition">External fact without the intervention of any
+         meaning known or conceivable. It is what the human being captures or receives through
+         sensory channels or abnormal senses. In English E.S.P. (extra sensory perception).
+         English acronyms are accepted throughout the world and are usually never translated.</string>
+    <string name="dictionary_word_186_name">Pyromancy</string>
+    <string name="dictionary_word_186_definition">Divination by means of fire.</string>
+    <string name="dictionary_word_187_name">Pyrovasia</string>
+    <string name="dictionary_word_187_definition">Faculty that certain people have to walk
+         barefoot on the embers.</string>
+    <string name="dictionary_word_188_name">P.K. (PSI-KAPPA)</string>
+    <string name="dictionary_word_188_definition">Psychokinesis. It is the direct influence exerted
+         by a subject on a physical system without intervening instrument or physical energy
+         known or conceivable.</string>
+    <string name="dictionary_word_189_name">Pneumotofony</string>
+    <string name="dictionary_word_189_definition">Oral communication, of the spirits without the
+         intervention of the voice of the medium.</string>
+    <string name="dictionary_word_190_name">Pneumatography</string>
+    <string name="dictionary_word_190_definition">Direct writing of the spirits without the
+         intervention of the medium's hand.</string>
+    <string name="dictionary_word_191_name">Poltergeist</string>
+    <string name="dictionary_word_191_definition">An exclusively parapsychological term that corresponds
+         to the German voice that means: "noisy elf". It is called like this to a wide range of
+         Paraphysical phenomena (rarely parabiological) that are always linked to
+         a place (homes, cemeteries, temples, etc.). Some of the facts registered in
+         this type of manifestation have been: Litotelergy, Raps, Teleplasties, Telekinesis of
+         furniture or heavy objects, ghosts, voices and paranormal noises. They seem to associate
+         to the presence is a sensitive, often in adolescent age. They have also received
+         the name of haunted houses or infestation.</string>
+    <string name="dictionary_word_192_name">Postcognition</string>
+    <string name="dictionary_word_192_definition">Synonym of retrocognition. Perception of
+         past events.</string>
+    <string name="dictionary_word_193_name">Precognition</string>
+    <string name="dictionary_word_193_definition">Paranormal perception of an event that
+         has not happened yet.</string>
+    <string name="dictionary_word_194_name">Premonition</string>
+    <string name="dictionary_word_194_definition">Vague warning, generally, regarding the
+         future or a future event.</string>
+    <string name="dictionary_word_195_name">Coven</string>
+    <string name="dictionary_word_195_definition">A group of witches.</string>
+    <string name="dictionary_word_196_name">Psychobulia</string>
+    <string name="dictionary_word_196_definition">Unconscious capacity that has a gifted to
+         intelligently directing his telergy</string>
+    <string name="dictionary_word_197_name">Psychokinesis</string>
+    <string name="dictionary_word_197_definition">Alleged action of the mind on a physical
+         evolution system.</string>
+    <string name="dictionary_word_198_name">Psychophonies</string>
+    <string name="dictionary_word_198_definition">Recordings on virgin tape in any tape recorder,
+         or any other type of magnetic or optical support, of human voices, whispers, noises, music,
+         bells, etc. of ignored origin. (Also called Paraphonies). Although the distinction between
+         the terms paraphonies and psychophonies is practically null, the most appropriate name for the
+         The phenomenon would be the paraphony.</string>
+    <string name="dictionary_word_199_name">Psychography</string>
+    <string name="dictionary_word_199_definition">Appearance of a writing on a blackboard, wall, paper,
+         etc. that could not be done by normal methods. It is of paranormal origin.</string>
+    <string name="dictionary_word_200_name">Psychometry</string>
+    <string name="dictionary_word_200_definition">Synonym for psychoscopy. In parapsychology this
+         term is used to designate the E.S.P. that some sensitive people have while
+         hold in their hands any object that has belonged to the person he is looking for.</string>
+    <string name="dictionary_word_201_name">Psychorrhagia</string>
+    <string name="dictionary_word_201_definition">Liberation of telergy or of certain energies and
+         unconscious forces.</string>
+    <string name="dictionary_word_202_name">Psychoscopy</string>
+    <string name="dictionary_word_202_definition">Clairvoyant faculty that possess some sensitive,
+         that having a witness in your hands, such as a handkerchief, a pen, etc., will make them relate
+         mentally with the owner of that object and you will obtain the necessary information.</string>
+    <string name="dictionary_word_203_name">Psychotronics</string>
+    <string name="dictionary_word_203_definition">Synonym of Parapsychology; term used
+         in the old socialist or communist countries.</string>
+    <string name="dictionary_word_204_name">Quirology</string>
+    <string name="dictionary_word_204_definition">Art of knowing the character of a person by the
+         observation of their hands.</string>
+    <string name="dictionary_word_205_name">Palmistry</string>
+    <string name="dictionary_word_205_definition">It is a divinatory art through study
+         or analysis of the stripes of the hand, according to universally accepted rules.</string>
+    <string name="dictionary_word_206_name">Rabdomancy</string>
+    <string name="dictionary_word_206_definition">It is divination by means of a stick or cane.
+         It is of ancient origin and is the forerunner of modern Dowsing.</string>
+    <string name="dictionary_word_207_name">Radiation</string>
+    <string name="dictionary_word_207_definition">Energetic emissions that can have oscillatory nature.</string>
+    <string name="dictionary_word_208_name">Dowsing</string>
+    <string name="dictionary_word_208_definition">It is the art of catching by means of a rod or
+         pendulum, springs, treasures, things buried, lost, etc. this is due to
+         the extrasensory perception of the individual.</string>
+    <string name="dictionary_word_209_name">Raps</string>
+    <string name="dictionary_word_209_definition">English word that designates unusual noises
+         that occur without explainable cause.</string>
+    <string name="dictionary_word_210_name">Reincarnation</string>
+    <string name="dictionary_word_210_definition">According to Spiritism and many religions,
+         return of the spirit to bodily life; plurality of existences.</string>
+    <string name="dictionary_word_211_name">Retrocognition</string>
+    <string name="dictionary_word_211_definition">Knowledge of past events or experiences
+         out of the memory of the individual and that could not be known by the normal sensory
+        channels.</string>
+    <string name="dictionary_word_212_name">SEIP</string>
+    <string name="dictionary_word_212_definition">Acronyms of the Spanish Society of
+         Parapsychological Investigations. This society is chaired by Pedro Amorós
+         (Researcher in Instrumental Transcommunications) and is based in Alicante (Spain)
+         and its research field is international.</string>
+    <string name="dictionary_word_213_name">Sematology</string>
+    <string name="dictionary_word_213_definition">Synonym of tiptology.</string>
+    <string name="dictionary_word_214_name">Sensitive</string>
+    <string name="dictionary_word_214_definition">Person who has special faculty to
+         experience an infinity of paranormal phenomena.</string>
+    <string name="dictionary_word_215_name">Simulation</string>
+    <string name="dictionary_word_215_definition">Many paranormal phenomena can be simulated
+         or tricks.</string>
+    <string name="dictionary_word_216_name">Mystical Sounds</string>
+    <string name="dictionary_word_216_definition">Certain sounds perceived during the
+         meditation.</string>
+    <string name="dictionary_word_217_name">Telepathic suggestion</string>
+    <string name="dictionary_word_217_definition">Telebulia, transmission of the will at a distance.</string>
+    <string name="dictionary_word_218_name">Takinesis</string>
+    <string name="dictionary_word_218_definition">Fast, close movements of various objects
+         produced by the medium.</string>
+    <string name="dictionary_word_219_name">Tarot</string>
+    <string name="dictionary_word_219_definition">Deck composed of 78 cards of Egyptian origin and that
+         are used for prediction.</string>
+    <string name="dictionary_word_220_name">Telebulia</string>
+    <string name="dictionary_word_220_definition">It is said of the telepathic suggestion.</string>
+    <string name="dictionary_word_221_name">Telekinesis</string>
+    <string name="dictionary_word_221_definition">Displacement of objects without observable physical cause
+         or known.</string>
+    <string name="dictionary_word_222_name">Telehypnosis</string>
+    <string name="dictionary_word_222_definition">Hypnotic induction from a distance.</string>
+    <string name="dictionary_word_223_name">Telepathy</string>
+    <string name="dictionary_word_223_definition">Transmission of thought at a distance.</string>
+    <string name="dictionary_word_224_name">Teleplasty</string>
+    <string name="dictionary_word_224_definition">Synonym of ectoplasmia. Objectivation of forms.</string>
+    <string name="dictionary_word_225_name">Telergy</string>
+    <string name="dictionary_word_225_definition">Physical or psychophysical force put into play in
+         many acts of telepathy.</string>
+    <string name="dictionary_word_226_name">Curse</string>
+    <string name="dictionary_word_226_definition">Words spoken or written in order to influence others
+        paranormally, causing them harm.</string>
+    <string name="dictionary_word_227_name">Termogenesis</string>
+    <string name="dictionary_word_227_definition">Energy causing and responsible for fires within
+a house, business, office, etc. usually caused by the telergy.</string>
+    <string name="dictionary_word_228_name">Witness</string>
+    <string name="dictionary_word_228_definition">In dowsing, body of the same nature as the wanted.</string>
+    <string name="dictionary_word_229_name">Tiptology</string>
+    <string name="dictionary_word_229_definition">Means of communication of the spirits by means of
+         percussions or blows, sometimes imperfect, due to its slowness.</string>
+    <string name="dictionary_word_230_name">Emptying</string>
+    <string name="dictionary_word_230_definition"> Molds representing hands and arms obtained on
+         paraffin, clay or any other plastic substance and whose formation has been achieved
+         always in a totally paranormal way.</string>
+    <string name="dictionary_word_231_name">Dowsing Rod</string>
+    <string name="dictionary_word_231_definition">They are two rods of flexible material, joined by
+         an end and whose function is to amplify and make sensitive the unconscious movements
+         of the hands, in its precise moment, in the course of the dowsing investigations.</string>
+    <string name="dictionary_word_232_name">Foretell</string>
+    <string name="dictionary_word_232_definition">Predict.</string>
+    <string name="dictionary_word_233_name">Clairvoyant</string>
+    <string name="dictionary_word_233_definition">In parapsychology a clairvoyant is a person with
+         faculties of proven clairvoyance.</string>
+    <string name="dictionary_word_234_name">Xenoglossia</string>
+    <string name="dictionary_word_234_definition">Locution of foreign languages that were never learned.</string>
+    <string name="dictionary_word_235_name">Xilomancy</string>
+    <string name="dictionary_word_235_definition">Divination made by means of wood.</string>
+    <string name="dictionary_word_236_name">Dowser</string>
+    <string name="dictionary_word_236_definition">It is said of the person with faculties for dowsing.
+         The people trained to locate groundwater wells were commonly known.
+         Old name for the dowser, now completely obsolete.</string>
+    <string name="dictionary_word_237_name">Zener</string>
+    <string name="dictionary_word_237_definition">Name by which the letters called
+         PES in the statistical analysis of certain extrasensory perception phenomena.</string>
+    <string name="dictionary_word_238_name">Zombie</string>
+    <string name="dictionary_word_238_definition">A corpse that has been partly brought back
+        to (soul-less) life by magic.</string>
+</resources>

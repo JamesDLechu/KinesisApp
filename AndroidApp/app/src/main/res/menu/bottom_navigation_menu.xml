@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/bottomNavViewHome"
+            android:title="Home"
+            android:enabled="true"
+            android:icon="@android:drawable/star_big_on"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/bottomNavViewDiccionary"
+            android:enabled="true"
+            android:title="Diccionary"
+            android:icon="@android:drawable/ic_dialog_map"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/bottomNavViewMoviesAndSeries"
+            android:enabled="true"
+            android:title="Movies"
+            android:icon="@android:drawable/ic_menu_help"
+            app:showAsAction="ifRoom"/>
+    </group>
+</menu>

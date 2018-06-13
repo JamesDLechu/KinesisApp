@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/navMenuPrincipal"
+            android:title="Principal"
+            android:checked="true"/>
+        <item android:id="@+id/navMenuDiccionario"
+            android:title="Diccionario"/>
+        <item android:id="@+id/navMenuInfo"
+            android:title="Información"/>
+        <item android:id="@+id/navMenuPoderes"
+            android:title="Poderes"/>
+    </group>
+</menu>

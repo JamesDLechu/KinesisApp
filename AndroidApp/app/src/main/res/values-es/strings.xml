@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KinesisPowersApp</string>
+    <string name="search_hint">Type name…</string>
+
+
+    //CATEGORIES
+    <string name="Kinetics">Quinéticos</string>
+    <string name="Extrasensorials">Percepción Extrasensorial</string>
+    <string name="Magic">Magia</string>
+    <string name="Various">Otros</string>
+
+    // PSYCHOKINESIS
+    <string name="aerokinesis_name">Aerokinesis</string>
+    <string name="aerokinesis_definition">Consiste en la creación y dominio total del aire, esta es la más fácil
+        de aprender después de la telekinesis. Los tres pasos o partes que la constituyen, son escalones
+        muy grandes, y cada paso es más difícil que el anterior.</string>
+    <string name="aerokinesis_exercise_1_name">Ejercicio 1 - Producción del Viento</string>
+    <string name="aerokinesis_exercise_1_definition">Utilizaremos el Psi-Wheel (cuya construcción se explica en
+        el tema de la Telequinesis), pondremos el Psi-Wheel delante nuestro pero no lo moveremos a través de
+        los conocimientos telekineticos, nos soplamos en la palma de la mano y asimilamos esa sensación,
+        extendemos nuestra mano de manera que la palma de la mano quede dirigida hacia el psi Wheel, y
+        haremos notar la sensación de viento que producimos antes en nuestra mano, al principio sentirás
+        una pequeña brisa, pero poco a poco esa sensación irá aumentando, y veras como el psi Wheel se
+        mueve por el viento.</string>
+    <string name="aerokinesis_exercise_2_name">Ejercicio 2 - Dominio del Viento</string>
+    <string name="aerokinesis_exercise_2_definition">Dominar el viento es más difícil
+        que producirlo, la mejor técnica de entrenar es coger una veleta de las que se ponen para
+        indicar el sentido del viento, y que indique el sentido que tú quieras, para realizarlo haremos
+        lo siguiente:
+        Ponemos la veleta en la calle, ventana o cualquier sitio por el que pase el viento, ahora siente
+        el viento y hazlo tuyo igual que con la psi Wheel, cuando lo sientas como parte de ti muévelo en
+        el sentido que quieras, la veleta te servirá para saber si realmente el aire va hacia donde tú
+        quieres.</string>
+    <string name="aerokinesis_exercise_3_name">Ejercicio 3 - Oxigenación o Purificación del Aire</string>
+    <string name="aerokinesis_exercise_3_definition">Esta parte necesita mucha paciencia, velas y un
+        bote lo más grande posible. La oxigenación del aire es la inserción de oxígeno en un aire falto
+        de este, sabemos que si falta oxígeno, no podemos mantener encendida una llama, pues
+        intentaremos mantener una vela encendida en un lugar cerrado, la llama consumirá oxígeno,
+        si este se agota la llama se apagará, si mantenemos la llama encendida quiere decir que
+        estamos aportando oxígeno. Para mantenerla encendida:
+        Primero de todo encender la vela, meterlo en el bote cerrado y cronometra el tiempo que tarda
+        en apagarse. Metemos la vela en el bote, la encendemos, y sin cerrar el bote vamos
+        visualizando como en la llama se mete oxígeno, lo puedes visualizar como aire azul, y expulsa co2,
+        lo puedes visualizar como aire negro, cuando lo tengas asimilado tomate el tiempo necesario,
+        entonces visualizamos como el co2 que expulsa la llama va cambiando de color y se
+        va convirtiendo en aire azul (oxígeno), cuando estemos listos taparemos el bote sin dejar de
+        visualizar ese cambio, cronometra sin dejar de visualizar el tiempo que tarda la vela en
+        apagarse, si tarda mas es que vas bien, intenta mejor día a día el tiempo, hasta llegar al
+        punto en el que no se desaparezca.</string>
+    <string name="aerokinesis_exercise_4_name">Ejercicio 4 - Creación del Aire</string>
+    <string name="aerokinesis_exercise_4_definition">La creación del aire es la parte más difícil,
+        nos servirá para aumentar la presión en lugares cerrados:
+        Llenamos un plato de agua, ponemos un trozo de corcho y encima de este le ponemos una
+        vela pequeñita o un papel ardiendo, rápidamente lo tapamos con un vaso boca bajo,
+        veremos como al consumirse el oxígeno el agua es absorbida por el vaso, pues ahora debemos
+        sacarla aumentando la presión dentro del vaso:\n
+        Visualizando un punto lleno de aire por ejemplo de color azul dentro del bote, que va
+        aumentando de tamaño, el nivel de agua debe ir bajando, no desesperes si no lo consigues
+        la primera vez, con la experiencia puedes ir probando a hinchar globos que están anudados
+        ya aunque esto último es más difícil, ya que no puedes ver el interior del globo y es más
+        difícil de visualizar.</string>
+    <string name="atmokinesis_name">Atmokinesis</string>
+    <string name="atmokinesis_definition">Es la habilidad que consiste en manipular la atmófera.
+        Un usuario de esta habilidad puede cambiar el clima o causar un clima anormal.
+        Esta habilidad permite la manipulación y creación de condiciones de clima naturales, como
+        lluvia, tormentas, nieve, etc(…)\n
+        La Atmokinesis a menudo viene con un restricción psíquica previniendo la manipulación de cualquier
+        otra cosa que no sea clima y patrones climáticos, como la capacidad de generar hoyos en la capa de
+        ozono o algo similar, que pueda llegar a dañar al usuario.\n
+        Esta habilidad puede estar conectada con la Aerokinesis (manipulación del aire) para el control del
+        viento, Electrokinesis (manipulación de la electricidad) para el control de los rayos en las nubes,
+        y la Hydrokinesis (manipulación del agua) para todas las formas de precipitación del agua (lluvia,
+        nieve, aguanieve, granizo).</string>
+
+    <string name="audiokinesis_name">Audiokinesis</string>
+    <string name="audiokinesis_definition">Es la capacidad de controlar las ondas acústicas.</string>
+    <string name="audiokinesis_exercise_1_name">Ejercicio 1 - Conexión con el sonido</string>
+    <string name="audiokinesis_exercise_1_description">Este ejercicio debe ser practicado al menos
+        durante una semana.\n
+        Bien, el primer paso es tomar algún altavoz o bocina, buscar una música que tenga una potencia adecuada
+        y que te guste, pero que no los distraiga.\n
+        El segundo paso consiste en poner un poco alto el volumen mientras te sientas en una posición relajada.
+        A partir de aquí debes entrar en un estado de relajación profunda, y para ello debes empezar a sentir
+        las vibraciones de la música en tu cuerpo, y cuando lo hagas deberás mandar tu energía a tu alrededor,
+        buscando crear algo similar a una barrera, que recibirá las vibraciones y te las mandara de forma más
+        potente.</string>
+    <string name="audiokinesis_exercise_2_name">Ejercicio 2 - Ráfaga sónica</string>
+    <string name="audiokinesis_exercise_2_description">Primero es necesario que medites alrededor de 10 minutos.
+        Sin embargo mientras más medites mejor. Ahora, visualiza como las ondas de sonido viajan por todos
+        lados, luego busca concentrarlas en una mano, y cuando lo hayas hecho busca aumentar su potencia (como
+        cuando haces una Psiball) y prepárate para lanzarla; para ello extiende tu brazo y lanza la esfera
+        de sonido a el objeto deseado (si piensas hacerlo contra un objeto de cristal busca que el sonido generado
+        sea uno agudo, de forma que consigas romperlo).\n</string>
+    <string name="audiokinesis_exercise_3_name">Ejercicio 3 - Creación de sonido</string>
+    <string name="audiokinesis_exercise_3_description">Este ejercicio requiere que tengas dominado el anterior.\n
+        A partir de aquí debes concentrarte mucho, ya que debes buscar el visualizar las ondas de sonido a tu
+        alrededor y fortalecerlas, de forma que empieces a escuchar algún sonido, y una vez lo hayas hecho
+        el siguiente paso es moldear esas ondas de forma que se genere exactamente el sonido que tu quieres.</string>
+
+    <string name="biokinesis_name">Biokinesis</string>
+    <string name="biokinesis_description">Es el control sobre los génes, y se puede usar para fortalecer
+        nuestra capacidad mental, estimulando nuestros genes.\n
+        Si la biokinesis fuera dominada, en teoría sería posible reprogramarse genéticamente, y al hacerlo usted
+        podría mejorar cualquiera aspecto de su cuerpo. Cualquier cosa sería posible. Por ejemplo, si
+        usted reprogramara las células en sus ojos, usted podría ver más lejos y mejor. Usted también
+        podría cambiar su color o incluso darle un color a uno y otro color al otro.\n,
+        Pero no acaban ahí las posibilidades, ya que los procesos de reprogramación incluirían también cosas
+        como la carencia del dolor la estimulación de la fortaleza mental.</string>
+    <string name="biokinesis_exercise_1_name">Ejercicio General</string>
+    <string name="biokinesis_exercise_1_description">Este es un ejercicio que consiste en que medites alrededor de 30
+        minutos mientras sigues los siguientes pasos:\n\n
+        Una vez que hayas alcanzado el estado de relajación debes visualizar una pequeña aguja
+        hecha a base de tu energía dentro de tu cuerpo, muy delgada pero sólida. Ahora visuliza las cadenas de
+        ADN dentro de tu cuerpo e indícale a la aguja de energía que entre dentro de él, así como cual es
+        su propósito y que es lo que deseas cambiar (tienes que ser muy específico), una vez hecho eso imagina
+        a la aguja trabajando, cambiando lo que buscas que se cambie, y cuando hayas visualizado que terminó
+        su trabajo imaginala saliendo de tus cadenas de ADN y tapando el hueco por donde entró.\n\n
+        En este punto ya puedes \"despertar\" de la meditación y continuar tu día de forma normal, manteniendo
+        en tu cabeza a toda hora la idea de lo que buscas mejorar, y si sigues exactamente los pasos anteriormente
+        descritos alrededor de una semana después empezarás a notar los resultados dependiendo de lo que estés
+        buscando cambiar. \n\n
+        ADVERTENCIA:\nNo juegues con esto ya que es muy peligroso y debe ser practicado por aquellos que ya estén
+        más experimentados con alguna otra habilidad o en el control de su energía.
+    </string>
+    
+    <string name="chronokinesis_name">Chronokinesis</string>
+    <string name="chronokinesis_description">Chrono significa tiempo, así que la Chronokinesis es la
+        habilidad de poder disminuir o aumentar la velocidad del tiempo, o en este caso, el como lo percibes.</string>
+    <string name="chronokinesis_exercise_1_name">Ejercicio 1 - Dilatación del tiempo</string>
+    <string name="chronokinesis_exercise_1_description">Paso 1: Coge un reloj analógico y acércalo a tu oído o cerca
+        de él, hasta que oigas el tic-tac, o sino algo que suene parecido a eso.\n\n
+        Paso 2: Ahora escucha y concéntrate en el sonido del tic-tac.\n\n
+        Paso 3: Ahora imagina como el sonido del tic-tac empieza a sonar más y más lento y más lento.
+        Paso 4: Haga esto por varios minutos hasta que escuche como los golpes de la manecilla son más largos de lo que
+        eran hasta hace unos momentos. Cuando consigas eso lo habrás logrado. Ahora sigue practicando y
+        con la práctica no necesitaras ningún reloj y podrás disminuir la velocidad del tiempo a consciencia.</string>
+    <string name="chronokinesis_exercise_2_name">Ejercicio 2 - Aceleración del tiempo</string>
+    <string name="chronokinesis_exercise_2_description">Para acelerarlo debes seguir los mismos pasos que el ejercicio
+        anterior pero ahora en vez de escucharlo lento lo que debemos hacer es escucharlo más rápido</string>
+
+    <string name="cryokinesis_name">Cryokinesis</string>
+    <string name="cryokinesis_description">En parte es el elemento del hielo y en parte es poder psíquico.
+        Es literalmente  la manipulación y el control del hielo. Esta es una lista de habilidades que podrías
+        obetener gracias a la cryokinesis:\n
+        1- Bajar la temperatura de una habitación.\n
+        2- Provocar frío a una persona.\n
+        3- Convertir agua en hielo.\n
+        4- Crear hielo.\n
+        5- Congelar objetos.\n
+        Esos son algunos de los usos que la gente le llega a dar a esta habilidad, aunque se debe tener en cuenta que
+        no es sencillo el llegar a dominar cada uno de esos puntos.</string>
+    <string name="cryokinesis_exercise_1_name">Ejercicio 1 - Acondicionamiento</string>
+    <string name="cryokinesis_exercise_1_description">Es importante que le enseñes a tu cuerpo a soportar el frío,
+        y con el tiempo a hacerlo inmune, debido a que estarás practicando de forma seguida y de no estar
+        preparado podrías hacerte daño.\n
+        Ahora, empieza por tomar un trozo de hielo y mantenerlo en tu mano. Mantén el puño apretando el
+        pedazo de hielo sin soltarlo ni un poco, hasta que ya no puedas con el dolor. Sigue haciendo esto durante
+        varios días aumentando poco a poco los minutos que lo tienes en tu mano hasta que el hielo se derrita por
+        completo, y una vez lo consigas, ahora hazlo con un hielo en cada mano, de igual forma
+        hasta que el hielo se derrita.\n\n
+        También deberías intentar que los baños que tomes sean cada vez más y más frescos hasta que puedas hacerlo con
+        agua totalmente helada, para que tu cuerpo se acostumbre y sepa lo que es el frío. Procura aguantar así
+        durante dos meses soportando con tu pura fuerza de voluntad. Entonces estarás preparado para empezar
+        a practicar la cryokinesis.</string>
+    <string name="cryokinesis_exercise_2_name">Ejercicio 2 - Controlando el hielo</string>
+    <string name="cryokinesis_exercise_2_description">Una vez más, agarras un pedazo de hielo pero esta vez no para
+        dejar que se derrita sino para evitarlo. Intenta que el hielo siga helado y no se convierta en agua. Siente
+        el frió a través de tu cuerpo y de tu mente, evitando que tu mano se caliente y obligando al hielo a
+        mantener su estado sólido.\n
+        Cuando lo hayas conseguido ya habrás dado el primer paso en el desarrollo de la cryokinesis. Ten en
+        cuenta que se necesita mucha fuerza de voluntad y mucho control mental para llegar a conseguirlo, pero
+        toma en cuenta que si fuera sencillo, verías a todas las personas con este tipo de habilidad.</string>
+    <string name="cryokinesis_exercise_3_name">Ejercicio 3 - Congelación del Agua</string>
+    <string name="cryokinesis_exercise_3_description">Ya que hayas obtenido el control sobre el hielo, el siguiente
+        ejercicio será intentar crearlo a partir del agua.\n
+        Para esto, debes conseguir un vaso y llenarlo con una pequeña cantidad de agua. Pon tus manos alrededor
+        del vaso y busca sentir en ellas la misma sensación de cuando sostenías el hielo. Concéntrate y busca con ello
+        que el agua baje su temperatura y de esta forma puedas cambiar su estado. Siente la energía fluir
+        desde tus manos y conéctala con el agua, obligándola a cambiar según tu voluntad.\n\n
+        Con el tiempo y con una práctica constante deberás empezar a notar resultados.</string>
+    <string name="cryokinesis_exercise_4_name">Ejercicio 4 - Enfriando el Ambiente</string>
+    <string name="cryokinesis_exercise_4_description">Ahora que tu cuerpo y tu mente están familiarizados con
+        el frío vas a aprender la habilidad de bajar la temperatura de una habitación.\n
+        Para empezar con este ejercicio busca una habitación que donde te sientas tranquilo y haya poco ruido,
+        dado que necesitarás concentrarte mucho, y una vez estando en ella sitúate en el centro.\n
+        Relájate y deja tu mente vacia, toma consciencia de todo lo que te rodea, de la habitación en su
+        totalidad, empieza a sentir la temperatura del ambiente y recuerda el frío que sentiste al sostener
+        el hielo en tus manos, o los baños de agua helada.\n\n
+        Imagina altas cimas de montaña, donde las temperaturas son muy bajas; una vez teniendo esa imagen
+        en tu mente concéntrate y empieza a imaginar como las paredesde la habitación se empiezan a
+        cubrir de hielo, y así ve imaginando como toda la sala poco a poco empieza a cubrirse en su
+        totalidad, como si se tratara de una niebla invisible. Deja que esa niebla transmita tu poder, que
+        sea esa fuerza la que enfríe la habitación.\n\n
+        Realiza este ejercicio varias veces hasta que empieces a notar resultados. Puedes hacer uso de
+        termómetros para medir tu progreso.</string>
+    <string name="cryokinesis_exercise_5_name">Ejercicio 5 - Creando Hielo y Escarcha</string>
+    <string name="cryokinesis_exercise_5_description">La parte más difícil de casi todas las kinesis:
+        la creación del elemento.\n
+        Antes de empezar debe quedarnos claro que no es posible crear el elemento a partir de la nada,
+        razón por la cual antes de comenzar con el ejercicio tenemos que entender que "la materia no se
+        crea ni se destruye, sólo se transforma", por lo que se hará uso de la húmedad que se encuentra
+        en el medio ambiente y se tratará de solidificarlo, dando como resultado la formación de hielo.\n\n
+        Hay que recordar que es esencial haber dominado los ejercicios anteriores, dado que la creación
+        de cualquier elemento es un proceso complicado. Una vez dicho eso podemos empezar:\n\n
+        Para empezar, deberás entrar en un estado de relajación profundo, siendo que deberás concentrarte
+        al máximo para permitir una mejor comunicación entre tú y tu subcosciente con el fin de obtener un
+        mayor control sobre tu mente.\n
+        Una vez lo hayas hecho deberás empezar a sentir toda la humedad que te rodea, inhala y exhala mientras
+        la visualizas, así como la energía fluyendo a tu alrededor, flotando en el aire y en tu interior.
+        Ahora junta las manos como si fueras a crear una esfera de energía, como si sostuvieras una
+        pelota entre tus manos pero sin juntarlas, obligando a que toda la energía se concentre en el interior
+        de esa pelota.\n\n
+        Cuando empieces a sentir toda la acumulación de energía entre tus manos empieza a recordar la sensación
+        que tuviste al congelar el agua, busca concentrar todo el frío que puedas en el interior de la pelota
+        imaginaria y con todas tus fuerzas y concentrándote lo más que puedas obliga a esa energía a "crear"
+        hielo, poco a poco como si estuvieses creando pequeñas piedras de cristal.\n\n
+        Con este ejercicio conseguirás la creación de la escarcha al principio, dado que al ser sólo una capa
+        de hielo será más sencillo de que lo logres, pero con la práctica constante podrás llegar a la
+        creación del hielo.\n</string>
+    <string name="cryokinesis_exercise_6_name">Ejercicio 6 - Capas de Escarcha</string>
+    <string name="cryokinesis_exercise_6_description">Este ejercicio tiene como requisito haber completado el
+        anterior con éxito, siendo que es un complemento.\n
+        Se le llama escarcha a una fina capa de hielo que recubre ciertas superficies heladas y que no tiene
+        tanta consistencia como el hielo en sí.\n
+        Este ejercicio consiste en ser capaz de crear una capa de hielo sobre cualquier superficie una vez
+        que tu mano haga contacto sobre ella.\n
+        A diferencia del ejercicio anterior donde tienes que concentrar tu energía en una esfera, ahora
+        tendrás que concentrarla sobre la superficie que está tocando toda la palma de tu mano, ordenándole
+        crear una fina capa de hielo (al principio tendrás que hacela delgada para no desgastarte tanto, pero
+        con el tiempo podrás hacerla más y más gruesa).\n</string>
+    <string name="electrokinesis_name">Elecrokinesis</string>
+    <string name="electrokinesis_description">La electrokinesis es la habilidad de la mente, de controlar
+        o cambiar la electricidad. algo muy peligroso, pero fascinante.</string>
+
+    //EXTRA SENSORY PERCEPTION
+    <string name="claircognizance_name">Clarividencia</string>
+    <string name="claircognizance_description">Es la capacidad de una persona para adquirir
+         conocimiento psíquico sin saber cómo o por qué él o ella lo sabía. El usuario puede obtener información sobre
+         una persona, objeto, lugar o evento a través del conocimiento intrínseco, ya que solo llega a la mente del usuario.</string>
+    <string name="claircognizance_exercise_1_name">Ejercicio 1 - </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="example">Esto es importante especialmente en las aplicaciones, estas deben empezar resolviendo
+        UN SOLO problema y hacerlo muy bien, no trates de hacer una app “todóloga”, porque
+        será confusa y mucho más difícil de hacer.
+        • Inicia pensando en el problema, no en la solución, por ejemplo, no pienses en “Voy a hacer
+        una app que ayude a las personas a reservar lugares en clubes nocturnos”, mejor piensa
+        “¿Cuál es la parte más incómoda de ir a un club nocturno? Ah, tener que llamar antes para
+        reservar, siempre olvido reservar”. Esto te guiará a brindar algo que la gente realmente
+        quiera y/o necesite. Observa bien tu entorno para detectar problemas que puedas
+        solucionar.
+        • De preferencia (aunque no es obligación), crea un producto que resuelva un problema
+        personal, algo que necesites pero que no exista o que en el mercado no sea lo
+        suficientemente bueno todavía, esto te mantendrá enfocado en lograr tu objetivo, puesto
+        que tu meta será solucionar algo que te beneficiará a ti también.
+        • Si tu idea ya existe, no te desanimes, quiere decir que hay un mercado para ella.
+        • Cuenta tu idea a amigos y personas que conozcas. Evalúa si realmente lo que tú crees que
+        es un problema lo es o no. Importante, al menos al inicio NO PIDAS OPINIÓN DE TUS
+        PADRES (Ellos siempre te dirán que la idea es buena o te dirán que te dejes de tonterías,
+        pero digan lo que digan nublará tu punto de vista)
+        1 Enfócate En Un Solo
+        Problema y Resuélvelo
+        Muy Bien
+        2 Evalúa Tu Idea Con
+        Personas Cercanas
+        © 2017 JESUS ERNESTO VALDEZ ALMARAL, ALMARAL ENGINEERING
+        • La opinión de tus amigos en general no es muy útil (O muy alentadores o muy negativos,
+        no hay puntos medios), pero este ejercicio te dará un punto de partida y te ayudará a
+        perder el miedo para entrevistar a desconocidos.
+        • Crea una HIPÓTESIS acerca de tu producto y el problema que resuelve, por ejemplo: “El
+        principal problema de ir a un club nocturno concurrido es tener que reservar con
+        anticipación, mucha gente no lo hace por flojera o porque no le gusta contactar a otros
+        para ese tipo de cosas”.
+        • ESCRIBE UN CUESTIONARIO para que hagas las mismas preguntas a todos, el
+        cuestionario te ayudará a conocer a tus futuros clientes, sus hábitos, sus problemas, y si tu
+        hipótesis es real o solo está en tu mente. Guarda el cuestionario, lo necesitarás para
+        después.
+        • Puede ser tan sencillo como un bosquejo a mano en una libreta.
+        • Muestra este prototipo a personas cercanas y a profesionales en desarrollo: diseñadores,
+        programadores, etc. Esto, además de ayudar en la VALIDACIÓN de tu idea, te dará
+        puntos de vista para saber si lo que quieres es realizable o no.
+        • Una app muy buena para crear este tipo de prototipos es Pop (https://marvelapp.com/
+        pop/), te ayudará a crear un prototipo en cuestión de horas o incluso minutos sin
+        necesidad de programación.
+        • Entrevista a unas 5 PERSONAS y haz mejoras, ITERA si es necesario y repite el proceso
+        hasta que estés a gusto con tu idea.
+        • Este es un prototipo un poco más detallado, creado con alguna herramienta de software:
+        Powerpoint, Photoshop, Keynote, Sketch, etc.
+        3 Crea Un Prototipo
+        Básico
+        4 Crea Un Prototipo
+        Intermedio
+        © 2017 JESUS ERNESTO VALDEZ ALMARAL, ALMARAL ENGINEERING
+        • Este prototipo va dedicado a tus POSIBLES CLIENTES, ¡Sal a la calle a mostrarlo!
+        • Si cuentas con una Mac, te recomiendo especialmente hacer prototipos con Sketch App
+        (https://www.sketchapp.com/), es un software relativamente barato y enfocado al diseño
+        de apps y páginas web, puedes probarlo por 30 días y ver si te convence.
+        • Otro software que te recomiendo (y es gratis para realizar este paso) es InVision, te</string>
+
+
+
+    //DICTIONARY
+    <string name="dictionary_word_1_name">AAAS</string>
+    <string name="dictionary_word_1_definition">Siglas de la American Assocciation for the Advancement
+        of Sciencie (Asociación americana para el progreso de la ciencia). Organismo con sede en Nueva
+        York y que agrupa a todas las ciencias oficiales que existen en el mundo. En 1969, a propuesta
+        de la antropóloga Dra. Margaret Mead, se aceptó la parapsicología como ciencia representada
+        por la Parapsychological Association, basándose en los estudios cuantitativos efectuados
+        con los fenómenos ESP llevados a cabo desde 1927 por el Dr. Joseph Banks rhine, en la Duke
+        University, y a los que posteriormente se le unieron las investigaciones de la PK(Psicocinesia).</string>
+    <string name="dictionary_word_2_name">Abacomancia</string>
+    <string name="dictionary_word_2_definition">Arte adivinatorio basado en la utilización de ábacos
+        o tablas con respuestas preparadas y que son escogidas al azar. </string>
+    <string name="dictionary_word_3_name">Abracadabra</string>
+    <string name="dictionary_word_3_definition">Voz cabalística (Kabalística) que constituye la fórmula
+        de expresión mágica a la que se atribuyen poderes extraordinarios y que significa
+        "Expresión Divina".</string>
+    <string name="dictionary_word_4_name"> Acúfenos</string>
+    <string name="dictionary_word_4_definition">Zumbido en los oídos. Sensaciones auditivas en
+        ausencia de estímulo exterior. Pueden ser interpretados como fenómenos Parafónicos, voces
+        de ultratumba,etc. </string>
+    <string name="dictionary_word_5_name"> Acupuntura</string>
+    <string name="dictionary_word_5_definition">Práctica médica tradicional china que consiste en
+        insertar agujas en lugares específicos del cuerpo.</string>
+    <string name="dictionary_word_6_name">Adepto</string>
+    <string name="dictionary_word_6_definition">Esotéricamente es el nombre que se designa a la
+        persona que está iniciada en el mundo de los conocimientos mágicos y ha llegado a conocer
+        y dominar dos secretos herméticos del esoterismo. En Alquimia el término se utiliza para
+        designar a la persona que ha llegado al final de su obra.</string>
+    <string name="dictionary_word_7_name">Ausente</string>
+    <string name="dictionary_word_7_definition">Una persona, no presente durante una sesión, en
+        cuyo nombre se dan las lecturas.</string>
+    <string name="dictionary_word_8_name">Adivinación</string>
+    <string name="dictionary_word_8_definition">Capacidad de prever acontecimientos futuros o
+        descubrir cosas ocultas por medio de la Percepción Extrasensorial (ESP) directamente
+        o bien utilizando como soporte de videncia. Cartas, bola de cristal, posos de café,
+        péndulo, etc. </string>
+    <string name="dictionary_word_9_name">Advocación</string>
+    <string name="dictionary_word_9_definition">Sistema que consiste en pronunciar una fórmula
+        iniciática por la cual una persona se declara discípulo y seguidor de una entidad,
+        enseñanza o filosofía hermética. </string>
+    <string name="dictionary_word_10_name">Aeromancia</string>
+    <string name="dictionary_word_10_definition">Arte adivinatorio basado en el aire que se respira.</string>
+    <string name="dictionary_word_11_name">Registros Akáshicos</string>
+    <string name="dictionary_word_11_definition">"Recuerdos" de todas las experiencias desde el principio de
+        los tiempos, que según algunas doctrinas místicas se almacenan permanentemente en una
+        sustancia espiritual (Akasha).</string>
+    <string name="dictionary_word_12_name">Agente</string>
+    <string name="dictionary_word_12_definition">Persona que intenta comunicar información a
+         otro en un experimento ESP. El sujeto en un experimento de psicokinesis. Persona que es el
+         foco de la actividad poltergeist.</string>
+    <string name="dictionary_word_13_name">Alma</string>
+    <string name="dictionary_word_13_definition">Esencia metafísica del ser humano que constituye el
+        Soplo Espiritual que activa la vida del hombre. Es el Nephesh de los hebreos y la Psyche
+        de los griegos.</string>
+    <string name="dictionary_word_14_name">Alomancia</string>
+    <string name="dictionary_word_14_definition">Sinónimo de salimancia. Se entiende por salimancia
+        la adivinación por medio de la sal.</string>
+    <string name="dictionary_word_15_name">Alucinación</string>
+    <string name="dictionary_word_15_definition">Percepción de algo que no existe materialmente y
+        que se produce en el sujeto por perturbación de los sentidos.</string>
+    <string name="dictionary_word_16_name">Experiencia de abducción alienígena</string>
+    <string name="dictionary_word_16_definition">Experiencias reportadas de secuestro por criaturas
+        alienígenas, a menudo en naves espaciales. Los secuestrados a menudo experimentan pérdida
+        de tiempo y sufren pérdida de memoria. Cuando se recuperan los recuerdos, a menudo usando
+        regresión hipnótica, los abducidos pueden informar que se realizaron operaciones quirúrgicas
+        en ellos.</string>
+    <string name="dictionary_word_17_name">Amnesia</string>
+    <string name="dictionary_word_17_definition">Perdida total o parcial de la memoria.</string>
+    <string name="dictionary_word_18_name">Angeles</string>
+    <string name="dictionary_word_18_definition">Seres espirituales benévolos que ayudan a personas
+        necesitadas.</string>
+    <string name="dictionary_word_19_name">Artefacto</string>
+    <string name="dictionary_word_19_definition">En parapsicología, evidencia falsa de fenómenos
+        paranormales, debido a alguna influencia normal extraña.</string>
+    <string name="dictionary_word_20_name">Aquelarre</string>
+    <string name="dictionary_word_20_definition">Término derivado de las voces vascas Ake-Larren-Larrea,
+        que significa: reunión en el prado del macho cabrío. Reunión brujeril. Sinónimo de SABBAT.</string>
+    <string name="dictionary_word_21_name">Arúspices</string>
+    <string name="dictionary_word_21_definition">Sacerdotes de la antigua Roma cuya misión consistía en
+        predecir el futuro a través de las visceras de las víctimas de los sacrificios sagrados.</string>
+    <string name="dictionary_word_22_name">Asinergia</string>
+    <string name="dictionary_word_22_definition">Alteración de la facultad de asociación de los movimientos
+        elementales durante la realización de actos complejos.</string>
+    <string name="dictionary_word_23_name">Asitismo</string>
+    <string name="dictionary_word_23_definition">Ayuno voluntario que se prolonga a veces indefinidamente,
+        especialmente en actos de gran misticismo.</string>
+    <string name="dictionary_word_24_name">Aura</string>
+    <string name="dictionary_word_24_definition">Emanación generalmente coloreada, percibida por ciertos
+        clarividentes, alrededor del cuerpo humano y a veces, alrededor de los animales y plantas.</string>
+    <string name="dictionary_word_25_name">Autocombustión espontánea</string>
+    <string name="dictionary_word_25_definition">Véase Biopirogénesis.</string>
+    <string name="dictionary_word_26_name">Autohipnosis</string>
+    <string name="dictionary_word_26_definition">Técnica desarrollada para la provocación del estado hipnótico
+        producida por el propio individuo. Se trata de una Autosugestión.</string>
+    <string name="dictionary_word_27_name">Autopremonición</string>
+    <string name="dictionary_word_27_definition">Aviso que recibimos, normalmente en sueños, de algo
+        que va a sucedernos.</string>
+    <string name="dictionary_word_28_name">Autoscopia</string>
+    <string name="dictionary_word_28_definition">Visión interior o facultad de ver los propios órganos
+        internos del cuerpo.</string>
+    <string name="dictionary_word_29_name">Autosugestión</string>
+    <string name="dictionary_word_29_definition">Fenómeno psíquico en el cual nuestra mente imaginativa
+        crea una idea fija que toma cuerpo y se asienta en nuestra psique en forma de obsesión, hasta
+        convertirse en realidad subjetiva influyendo en nuestra personalidad.</string>
+    <string name="dictionary_word_30_name">Bicorporeidad</string>
+    <string name="dictionary_word_30_definition">Sinónimo de Bilocación.</string>
+    <string name="dictionary_word_31_name">Bilocación</string>
+    <string name="dictionary_word_31_definition">Presencia simultánea de una persona, en dos lugares
+        distintos. La Parapsicología ha demostrado que ciertos casos de bilocación no son mas que
+        casos de telepatía.</string>
+    <string name="dictionary_word_32_name">Biofotogénesis</string>
+    <string name="dictionary_word_32_definition">Modificación de los tejidos celulares del organismo
+        humano que provoca que éstos emitan destellos de luz propia.</string>
+    <string name="dictionary_word_33_name">Biopausia</string>
+    <string name="dictionary_word_33_definition">Facultad de controlar y neutralizar las funciones biológicas.</string>
+    <string name="dictionary_word_34_name">Biopirogénesis</string>
+    <string name="dictionary_word_34_definition">Autoproducción biológica de incendios en el propio cuerpo de la
+        persona que provoca la conbustión del organismo a causa de una ignición interna que se
+        manifiesta en forma de llamas azuladas que surgen por los distintos orificiós naturales del
+        cuerpo y provocan la Conbustión Humana Espontánea (CHE).</string>
+    <string name="dictionary_word_35_name">Biótica</string>
+    <string name="dictionary_word_35_definition">Sinónimo de telergia; energía física.</string>
+    <string name="dictionary_word_36_name">Astrología</string>
+    <string name="dictionary_word_36_definition">Una teoría y práctica que intenta identificar las formas en
+        que los eventos astronómicos se correlacionan con los eventos en la tierra (por ejemplo, con
+        la personalidad y biografía de un individuo, o con las tendencias sociales y políticas).</string>
+    <string name="dictionary_word_37_name">Banshee</string>
+    <string name="dictionary_word_37_definition">En la creencia gaélica, una entidad femenina que anuncia una
+        muerte gimiendo y gritando.</string>
+    <string name="dictionary_word_38_name">Bola de cristal</string>
+    <string name="dictionary_word_38_definition">Esfera u óvalo de cristal utilizada en la cristalomancia.</string>
+    <string name="dictionary_word_39_name">Cámara Faraday</string>
+    <string name="dictionary_word_39_definition">Se trata de un recinto metálico, jaula o cámara según los
+        usos, en cuyo interior no pueden penetrar emisiones eléctricas o electromagnéticas. Fue ideada
+        por el físico y químico inglés Faraday.</string>
+    <string name="dictionary_word_40_name">Campo PSI</string>
+    <string name="dictionary_word_40_definition">Además de los campos gravitatorios, magnéticos y eléctricos
+        se ha propuesto internacionalmente la existencia de un campo PSI, que explicaría la correlación entre
+        los factores físicos que intervienen en lo paranormal (J.L. Jordán Peña). </string>
+    <string name="dictionary_word_41_name">Cartas Zener</string>
+    <string name="dictionary_word_41_definition">Juego de naipes que consta de cinco formas diferentes:
+        estrella, círculo, ondas(tres líneas paralelas onduladas), cuadrado y cruz; el juego consta de
+        25 cartas. Fueron utilizadas por el doctor J.B. Rhine en sus experimentos de telepatía y han
+        llegado a convertirse en uno de los instrumentos más utilizados en Parapsicología científica.</string>
+    <string name="dictionary_word_42_name">Cartomancia</string>
+    <string name="dictionary_word_42_definition">Adivinación del futuro por medio de los naipes o cartas.</string>
+    <string name="dictionary_word_43_name">Casa Encantada</string>
+    <string name="dictionary_word_43_definition">Nombre popular que reciben los casos de Poltergeist.</string>
+    <string name="dictionary_word_44_name">Cataplexia</string>
+    <string name="dictionary_word_44_definition">Estado fisiológico de estupor motivado por el miedo que
+        sufren los animales a causa de haber sido colocados en una posición insólita en su forma de vida
+        habitual.</string>
+    <string name="dictionary_word_45_name">Cenestesia</string>
+    <string name="dictionary_word_45_definition">Facultad de provocar alucinaciones internas en el
+        propio organismo. Este fenómeno se suele dar en casos de Posesión en que cenestésicamente
+        el individuo cree ser devorado interiormente por un "ente maléfico" y sufre las consecuencias
+        como si la alucinación fuera real.</string>
+    <string name="dictionary_word_46_name">Cenestésico</string>
+    <string name="dictionary_word_46_definition">Concerniente al sentimiento que experimenta el individuo de
+        su propia existencia.</string>
+    <string name="dictionary_word_47_name">Chakras</string>
+    <string name="dictionary_word_47_definition">Según la filosofía oriental son centros neurálgicos de
+        la persona o puntos de energía espiritual situados en el cuerpo astral y que tienen correlación
+        en el centro de la médula espinal y en los plexos nerviosos del cuerpo humano.</string>
+    <string name="dictionary_word_48_name">Cinético</string>
+    <string name="dictionary_word_48_definition">Término que identifica la ciencia de los movimientos.</string>
+    <string name="dictionary_word_49_name">Cirugía Psíquica</string>
+    <string name="dictionary_word_49_definition">Relativa técnica quirúrgica que permite a un sanador,
+        un dotado, poder intervenir quirúrgicamente cualquier alteración patológica sin instrumental
+        alguno. Ejemplo de ello son las famosas operaciones psíquicas que se efectúan en Filipinas
+        y en Brasil.</string>
+    <string name="dictionary_word_50_name">Clarividencia</string>
+    <string name="dictionary_word_50_definition">Poder psíquico natural o adquirido de poder ver a
+        través de la materia densa sin obstáculos de distancia ni tiempo. Modo de conocimiento
+        paranormal.</string>
+    <string name="dictionary_word_51_name">Clariaudiencia</string>
+    <string name="dictionary_word_51_definition">Facultad psíquica de poder oír a cualquier distancia,
+        inclusive sonidos ultrafísicos.</string>
+    <string name="dictionary_word_52_name">Criptestesia</string>
+    <string name="dictionary_word_52_definition">Término ideado por charles Richet para designar la
+        clarividencia. En la actualidad está en desuso.</string>
+    <string name="dictionary_word_53_name">Criptomnesia</string>
+    <string name="dictionary_word_53_definition">Acceso Paranormal a las profundidades del subconsciente,
+        para evocar recuerdos y percepciones subliminales que se encuentran allí contenidos.</string>
+    <string name="dictionary_word_54_name">Cuerpo Astral</string>
+    <string name="dictionary_word_54_definition">Vehículo invisible a la percepción física que
+        compenetra y circunda al cuerpo físico y proporciona las experiencias relacionadas con los
+        deseos y emociones; es también llamado cuerpo de los deseos.</string>
+    <string name="dictionary_word_55_name">Cumberlandismo</string>
+    <string name="dictionary_word_55_definition">Consiste esencialmente en percibir los movimientos
+        inconscientes de un sujeto cuyo pensamiento se quiere conocer. Fue presentado por primera vez
+        por el ilusionista y prestidigitador inglés Cumberland.</string>
+    <string name="dictionary_word_56_name">Curanderismo</string>
+    <string name="dictionary_word_56_definition">Práctica de curar enfermedades por medios no
+        aprobados por la medicina legal. Sistema empleado por quienes se dicen dotados de facultades
+        especiales para curar males físicos.</string>
+    <string name="dictionary_word_57_name">Curandero</string>
+    <string name="dictionary_word_57_definition">Sujeto sensitivo con facultades que están al margen
+        de la Biología, que igual puede diagnosticar una enfermedad, como puede curar, o aliviar por
+        imposición de manos, por sugestión, plegarias, etc. (En este campo hay mucho fraude).</string>
+    <string name="dictionary_word_58_name">Deja-Vu</string>
+    <string name="dictionary_word_58_definition">Fenómeno de clarividencia viajera cuya etimología
+        significa "Ya visto". Está creado por procesos neurológicos que producen una gran
+        intensificación de la conciencia, hecho que proporciona la sensación de haber estado antes
+        en un sitio determinado, quizás en "otra vida", según piensan los seguidores de la filosofía
+        reencarnacionista, basándose en el hecho de la conciencia prenatal.</string>
+    <string name="dictionary_word_59_name">Dermofilia</string>
+    <string name="dictionary_word_59_definition">Aparición sobre diversos puntos de la piel, en
+        individuos sensibles, de determinadas señales, manchas o dibujos de origen paranormal.</string>
+    <string name="dictionary_word_60_name">Dermogramas</string>
+    <string name="dictionary_word_60_definition">Grafismo, símbolos o dibujos marcados en la piel a
+        causa de una irritación epidérmica, provocada casi siempre por la rotura de los capilares
+        sanguíneos.</string>
+    <string name="dictionary_word_61_name">Dermoóptica</string>
+    <string name="dictionary_word_61_definition">Capacidad que poseen algunas personas de poder apreciar
+        imágenes ópticas a través de su piel, especialmente de las yemas de los dedos.</string>
+    <string name="dictionary_word_62_name">Desdoblamiento</string>
+    <string name="dictionary_word_62_definition">Estado de división de la personalidad. Es la facultad
+        de poder desplazar nuestro cuerpo astral, para actuar en un lugar lejano al cuerpo físico.</string>
+    <string name="dictionary_word_63_name">Diapsiquia</string>
+    <string name="dictionary_word_63_definition">Antigua denominación de la Telepatía.</string>
+    <string name="dictionary_word_64_name">Encantamiento</string>
+    <string name="dictionary_word_64_definition">Un hechizo u objeto que posee poder mágico.</string>
+    <string name="dictionary_word_65_name">Down Through</string>
+    <string name="dictionary_word_65_definition">Método de percepción de las cartas Zener "hacia abajo y a través",
+        utilizado en la ESP (Percepción Extra-Sensorial) en la experimentación cuantitativa de la clarividencia.</string>
+    <string name="dictionary_word_66_name">Duke University</string>
+    <string name="dictionary_word_66_definition">Centro de estudios de Durham, Carolina del Norte,
+        estados Unidos de América (Universidad) donde fue fundado en 1930 el primer laboratorio
+        oficial de parapsicología.</string>
+    <string name="dictionary_word_67_name">Ecto-Coloplasmia</string>
+    <string name="dictionary_word_67_definition">Fenómeno de modelación del ectoplasma por medio del
+        inconsciente, formando figuras, caras y diversos objetos.</string>
+    <string name="dictionary_word_68_name">Ectoplasia</string>
+    <string name="dictionary_word_68_definition">Sinónimo de Telergia y de Materialización. Término creado
+        por Myers en 1904 para definir la sustancia bioenergética o telérgica materializada.</string>
+    <string name="dictionary_word_69_name">Ectoplasma</string>
+    <string name="dictionary_word_69_definition">Formación paranormal de una sustancia de naturaleza
+        desconocida que emana generalmente de la misma boca del médium.</string>
+    <string name="dictionary_word_70_name">Efluvio</string>
+    <string name="dictionary_word_70_definition">Emanación de vitalidad atribuible al magnetismo del
+        cuerpo Humano. Sinónimo de aura.</string>
+    <string name="dictionary_word_71_name">Ciencia Cristiana</string>
+    <string name="dictionary_word_71_definition">Un movimiento de sanación religiosa fundado por Mary
+        Baker Eddy. Rechaza la práctica médica ortodoxa.</string>
+    <string name="dictionary_word_72_name">Escritura Automática</string>
+    <string name="dictionary_word_72_definition">Denominada también psicografía; escritura que algunas
+        personas en estado de semi-trance pueden efectuar, pudiéndolo hacer incluso de idiomas extranjeros,
+        totalmente desconocidos para el mismo sujeto.</string>
+    <string name="dictionary_word_73_name">Eidetismo</string>
+    <string name="dictionary_word_73_definition">Facultad que permite a un sujeto representar (por evocación
+        mnémica) imágenes con gran nivel de claridad o nitidez.</string>
+    <string name="dictionary_word_74_name">Elohim</string>
+    <string name="dictionary_word_74_definition">Nombre propio de Dios y por el cual todavía lo designan
+        en la Masonería.</string>
+    <string name="dictionary_word_75_name">Escotografía</string>
+    <string name="dictionary_word_75_definition">Denominación propuesta para el fenómeno de impresión
+        fotográfica de imágenes sobre emulsión sensible, en ausencia de luz y sin ayuda de cámara o
+        aparato óptico alguno.</string>
+    <string name="dictionary_word_76_name">ESP</string>
+    <string name="dictionary_word_76_definition">Abreviatura de Extra-Sensory Perception. En español se conoce
+        por la siglas P.E.S. o Percepción Extrasensorial.</string>
+    <string name="dictionary_word_77_name">Espectro</string>
+    <string name="dictionary_word_77_definition">Aparte de su aceptación física, que se refiere a una gama de
+        frecuencias, se emplea también para designar una Aparición o el fenómeno de la Fantasmogénesis.</string>
+    <string name="dictionary_word_78_name">Espiritismo</string>
+    <string name="dictionary_word_78_definition">Doctrina que parte de la base de un fondo filosófico,
+        científico y moral, de que el ser humano está formado de tres elementos: cuerpo, espíritu y un
+        vinculo llamado periespíritu. La Parapsicología estudia a fondo el espiritismo especialmente a
+        aquellos médiums de efectos físicos.</string>
+    <string name="dictionary_word_79_name">Espiritistas</string>
+    <string name="dictionary_word_79_definition">Relativo al espiritismo</string>
+    <string name="dictionary_word_80_name">Estigmas</string>
+    <string name="dictionary_word_80_definition">Señales cutáneas figurativas o imitativas que aparecen sobre
+        el cuerpo humano. Son alteraciones de carácter psicosomático.</string>
+    <string name="dictionary_word_81_name">Etrobacia</string>
+    <string name="dictionary_word_81_definition">Andar por el aire. Levitación de una persona sin
+        ninguna intervención humana.</string>
+    <string name="dictionary_word_82_name">Exteriorización</string>
+    <string name="dictionary_word_82_definition">Aparición simultáneamente de una persona en dos
+        lugares distintos y al mismo tiempo.</string>
+    <string name="dictionary_word_83_name">Extrasensorial</string>
+    <string name="dictionary_word_83_definition">Que va más allá de los sentidos físicos.</string>
+    <string name="dictionary_word_84_name">Facultades Extrasensoriales</string>
+    <string name="dictionary_word_84_definition">Se refiere a aquellas facultades que nos permiten entrar
+        en contacto o ser sujetos de experiencias paranormales, manifestadas a través de vías distintas a
+        las de los sentidos físicos.</string>
+    <string name="dictionary_word_85_name">Fading</string>
+    <string name="dictionary_word_85_definition">Fenómeno súbito de la desaparición momentánea de
+        los efluvios radiestésicos.</string>
+    <string name="dictionary_word_86_name">Fantasmas</string>
+    <string name="dictionary_word_86_definition">Apariciones, desdoblamientos, bilocaciones, proyección
+        astral, etc. Puede ser también una alucinación telepática como se explica en casi todos los
+        tratados de Parapsicología.</string>
+    <string name="dictionary_word_87_name">Fenómeno PSI</string>
+    <string name="dictionary_word_87_definition">Son todos los fenómenos que se producen como resultado
+        de la acción PSI en todos los conceptos. Abarca a toda la percepción extrasensorial C.E.S.P.
+        Conocimiento PSI-GAMMA y PSI-KAPPA.</string>
+    <string name="dictionary_word_88_name">Fenómenos Físicos</string>
+    <string name="dictionary_word_88_definition">Sinónimo de fenómenos objetivos.</string>
+    <string name="dictionary_word_89_name">Fenómenos Paranormales</string>
+    <string name="dictionary_word_89_definition">Son los habituales, lógicos, bien sean psicológicos o
+        físicos, debidos a fuerzas que parecen inteligentes, o bien a facultades desconocidas todavía
+        de la mente humana.</string>
+    <string name="dictionary_word_90_name">Fenómenos objetivos o PSI-KAPPA (PK)</string>
+    <string name="dictionary_word_90_definition">Son aquellos fenómenos de índole paranormal manifestados a
+        través de efectos de orden físico: psicoquinesia, ectoplasmia, psicofonías, etc.</string>
+    <string name="dictionary_word_91_name">Fenómenos subjetivos o PSI-GAMMA (PG)</string>
+    <string name="dictionary_word_91_definition">Son aquellos fenómenos de índole paranormal, manifestados a
+        través de efectos de orden mental, de nuestro propio psiquismo: telepatía, clarividencia,
+        precognición, etc.</string>
+    <string name="dictionary_word_92_name">Fitomagnetismo</string>
+    <string name="dictionary_word_92_definition">Se dice del magnetismo del reino vegetal.</string>
+    <string name="dictionary_word_93_name">Fitometragrafía</string>
+    <string name="dictionary_word_93_definition">Obtención de fotografías espirituales de seres pertenecientes
+        a otra dimensión y fotografías del llamado cuerpo astral de personas desdobladas en experiencias
+        extracorporales.</string>
+    <string name="dictionary_word_94_name">Fotoforia</string>
+    <string name="dictionary_word_94_definition">Se ha propuesto esta voz para la génesis de los fenómenos luminosos
+        paranormales (destellos luminosos, esferas brillante, etc.).</string>
+    <string name="dictionary_word_95_name">Fotogénesis</string>
+    <string name="dictionary_word_95_definition">Producción de luces paranormales.</string>
+    <string name="dictionary_word_96_name">Fotopsia</string>
+    <string name="dictionary_word_96_definition">Alucinación visual de carácter elemental. El sujeto percibe
+        destellos luminosos o ve todo el campo visual teñido de un solo color.</string>
+    <string name="dictionary_word_97_name">Fuerzas Inconscientes</string>
+    <string name="dictionary_word_97_definition">Potenciales catalizados por el médium en orden a realizar
+        el fenómeno propuesto.</string>
+    <string name="dictionary_word_98_name">Geomancia</string>
+    <string name="dictionary_word_98_definition">Procedimiento de adivinación por el examen de las figuras formadas
+        proyectando sobre una mesa o un tamiz, tierra, polvo, etc.</string>
+    <string name="dictionary_word_99_name">Glosolalia</string>
+    <string name="dictionary_word_99_definition">Fenómeno en el que un médium bajo trance habla o escribe en un
+        idioma extranjero, que ignora en estado normal.</string>
+    <string name="dictionary_word_100_name">Gnosis</string>
+    <string name="dictionary_word_100_definition">Fenómeno de adquisición de conocimiento en estado de misticismo
+        por vía extática, sin mediar sistema intelectual o pedagógico alguno.</string>
+    <string name="dictionary_word_101_name">Geoecia</string>
+    <string name="dictionary_word_101_definition">Nombre por el que se denomina la Magia Negra.</string>
+    <string name="dictionary_word_102_name">Grafología</string>
+    <string name="dictionary_word_102_definition">Ciencia que permite determinar el carácter, salud,
+        tendencias etc. de un individuo, a través del estudio de su escritura.</string>
+    <string name="dictionary_word_103_name">Grimorio</string>
+    <string name="dictionary_word_103_definition">Nombre genérico del libro que utilizan los Magos
+        y ocultistas a modo de manual.</string>
+    <string name="dictionary_word_104_name">Guru</string>
+    <string name="dictionary_word_104_definition">Instructor espiritual, llamado también maestro.</string>
+    <string name="dictionary_word_105_name">Hagiografía</string>
+    <string name="dictionary_word_105_definition">Estudios realizados a la vida de los santos.</string>
+    <string name="dictionary_word_106_name">Hematogramas</string>
+    <string name="dictionary_word_106_definition">Extraños dibujos, símbolos y grafismos marcados en la
+        piel(o sobre lienzos que han estado adheridos a ella) por efusión de sangre a través de
+        los poros.</string>
+    <string name="dictionary_word_107_name">Heteroscopia</string>
+    <string name="dictionary_word_107_definition">Generalmente se trata de una alucinación. En
+        Parapsicología se refiere a la visión de los órganos internos de otra persona.</string>
+    <string name="dictionary_word_108_name">Hialoscopia o Catoptromancia</string>
+    <string name="dictionary_word_108_definition">Procedimiento adivinatorio por medio de una
+        bola de cristal, espejo o una superficie reflectora cualquiera.</string>
+    <string name="dictionary_word_109_name">Hiloclastia</string>
+    <string name="dictionary_word_109_definition">Acción paranormal que se caracteriza por la
+        materialización y desmaterialización de cuerpos físicos, que pueden así penetrar en
+        recintos herméticos.</string>
+    <string name="dictionary_word_110_name">Hiloscopia</string>
+    <string name="dictionary_word_110_definition">Voz propuesta por Boirac para aquellos
+        fenómenos paranormales en los que la materia interacciona con la mente, como es el
+        caso de la radiestesia.</string>
+    <string name="dictionary_word_111_name">Hiperacusia</string>
+    <string name="dictionary_word_111_definition">Hiperestesia limitada a la percepción de sonidos.</string>
+    <string name="dictionary_word_112_name">Hiperafia</string>
+    <string name="dictionary_word_112_definition">Hiperestesia táctil, sensibilidad epidérmica muy acusada.</string>
+    <string name="dictionary_word_113_name">Hiperestesia</string>
+    <string name="dictionary_word_113_definition">Agudeza inhabitual de los sentidos en especiales circunstancias.
+        La percepción hiperestésica en una asombrosa agudeza que pueden alcanzar nuestra normales sensaciones.</string>
+    <string name="dictionary_word_114_name">Hipergeusia</string>
+    <string name="dictionary_word_114_definition">Término referido a la sensibilidad hiperestésica a la captación
+        de estímulos gustativos.</string>
+    <string name="dictionary_word_115_name">Hipermnesia</string>
+    <string name="dictionary_word_115_definition">Fenómeno de exaltación de la memoria, producido en
+        estado de trance y por personas hipermnésicas con facultades de agudizar el psiquismo, hasta
+        recordar con los más precisos detalles hechos y conocimientos perdidos en la memoria del
+        tiempo.</string>
+    <string name="dictionary_word_116_name">Hipermnesoglosia</string>
+    <string name="dictionary_word_116_definition">Capacidad de recordar, con todo su vigor primitivo,
+        una lengua olvidada.</string>
+    <string name="dictionary_word_117_name">Hiperosmia</string>
+    <string name="dictionary_word_117_definition">Sensibilidad hiperestésica de captación subliminal
+        olfativa.</string>
+    <string name="dictionary_word_118_name">Hipersensitivo</string>
+    <string name="dictionary_word_118_definition">Véase médium, paragnosta, etc.</string>
+    <string name="dictionary_word_119_name">Hipnosis</string>
+    <string name="dictionary_word_119_definition">Sueño artificial provocado. La sugestión y la
+        autosugestión guardan relación con la hipnosis, pero sin que el sujeto haya de estar
+        necesariamente dormido.</string>
+    <string name="dictionary_word_120_name">Hipnotismo</string>
+    <string name="dictionary_word_120_definition">Conjunto de fenómenos que constituyen la hipnosis.</string>
+    <string name="dictionary_word_121_name">Hipotáxico</string>
+    <string name="dictionary_word_121_definition">Estado semihipnótico, técnica similar a la de la fascinación.</string>
+    <string name="dictionary_word_122_name">IAO</string>
+    <string name="dictionary_word_122_definition">Etimológicamente, aliento de vida.</string>
+    <string name="dictionary_word_123_name">Ideofonía</string>
+    <string name="dictionary_word_123_definition">Recepción de música, campanas, voces, ruidos,
+        etc. sin causa aparente y de origen paranormal.</string>
+    <string name="dictionary_word_124_name">Ideoplastia</string>
+    <string name="dictionary_word_124_definition">Facultad paranormal atribuida al pensamiento y que
+        ejerce una acción sobre la materia. Son formas de pensamiento que algunas veces llegan a
+        impresionar, las placas fotográficas sensibilizadas, por ejemplo.</string>
+    <string name="dictionary_word_125_name">Ilusión</string>
+    <string name="dictionary_word_125_definition">Falsa interpretación de una realidad.</string>
+    <string name="dictionary_word_126_name">Infestación</string>
+    <string name="dictionary_word_126_definition">En casas o lugares. Sinónimo de poltergeist.</string>
+    <string name="dictionary_word_127_name">Inmortalidad</string>
+    <string name="dictionary_word_127_definition">Propiedad que tiene un ser de continuar existiendo
+        indefinidamente, eternamente, sin corrupción ni muerte.</string>
+    <string name="dictionary_word_128_name">Intuición</string>
+    <string name="dictionary_word_128_definition">Percepción o conocimiento instantáneo de una verdad
+        o idea sin la participación de razonamiento alguno.</string>
+    <string name="dictionary_word_129_name">Invocación</string>
+    <string name="dictionary_word_129_definition">Cualquier plegaria es como una invocación.</string>
+    <string name="dictionary_word_130_name">Jettatura</string>
+    <string name="dictionary_word_130_definition">Nombre que se da a las influencias malignas o
+        negativas producidas a través de la mirada del Hechicero. Sinónimo de Mal de ojo.</string>
+    <string name="dictionary_word_131_name">Ju-Ju</string>
+    <string name="dictionary_word_131_definition">Nombre de fetiche (amuleto) utilizado en las
+        tribus de África occidental.</string>
+    <string name="dictionary_word_132_name">Kamarupa</string>
+    <string name="dictionary_word_132_definition">Según los Espiritistas, entidad u operador,
+        provocador de trastornos incoherentes y divertidos en el curso de las sesiones.</string>
+    <string name="dictionary_word_133_name">Kappa</string>
+    <string name="dictionary_word_133_definition">En Parapsicología es el término derivado del
+        griego que significa "materia". Ver Psi-Kappa.</string>
+    <string name="dictionary_word_134_name">Karma</string>
+    <string name="dictionary_word_134_definition">Ley universal absoluta de retribución
+        compensativa entre causa y efecto basada en el mecanismo de acción-reacción.</string>
+    <string name="dictionary_word_135_name">Kinesis</string>
+    <string name="dictionary_word_135_definition">Voz griega que significa movimiento y en medicina
+        designa la acción del sistema nervioso central manifestada a través de los músculos. En
+        parapsicología se aplica al término Psicocinesia(Psico-Kinesia) para definir el grupo
+        de fenómenos parafísicos en los que la mente infliye dinámicamente sobre la materia y
+        la pone en movimiento.</string>
+    <string name="dictionary_word_136_name">Letargia</string>
+    <string name="dictionary_word_136_definition">Sueño continuado y patológico.</string>
+    <string name="dictionary_word_137_name">Levitación</string>
+    <string name="dictionary_word_137_definition">Levantamiento de objetos pesados en particular
+        del cuerpo humano sin intervención de ningún tipo de fuerza ni de agentes físicos.</string>
+    <string name="dictionary_word_138_name">Licantropía</string>
+    <string name="dictionary_word_138_definition">Del griego Lycos, "lobo", y Anthropos, "hombre".
+        Trastorno psíquico, variedad de zoantropía, en el que el enfermo cree ser un lobo.</string>
+    <string name="dictionary_word_139_name">Litomagnetismo</string>
+    <string name="dictionary_word_139_definition">Magnetismo que poseen ciertos minerales y algunas
+        piedras preciosas.</string>
+    <string name="dictionary_word_140_name">Litotelergia</string>
+    <string name="dictionary_word_140_definition">Lanzamiento misterioso de piedras en varias
+        direcciones sin causa física observable.</string>
+    <string name="dictionary_word_141_name">Logurgia</string>
+    <string name="dictionary_word_141_definition">Se consideran logurgos a ciertos curanderos y
+        cirujanos que trabajan por medio del poder de la mente. La logurgia se encarga
+        pues de estudiar dicha fenimenilogía.</string>
+    <string name="dictionary_word_142_name">Lucidez</string>
+    <string name="dictionary_word_142_definition">Término popular que indica clarividencia o telepatía.</string>
+    <string name="dictionary_word_143_name">Mancias</string>
+    <string name="dictionary_word_143_definition">Técnicas adivinatorias, algunas antiquísimas, obtenidas
+        la mayoría por diferentes medios, como son: la bola de cristal, las rayas de la mano,
+        las cartas, etc.</string>
+    <string name="dictionary_word_144_name">Manifiesto Espiritista</string>
+    <string name="dictionary_word_144_definition">Acto por el cual el espíritu revela su presencia.</string>
+    <string name="dictionary_word_145_name">Materializaciones</string>
+    <string name="dictionary_word_145_definition">Sinónimo de ectoplasma. Supuestas formaciones de
+        órganos aislados o seres completos, a veces humanoides, animales, etc.</string>
+    <string name="dictionary_word_146_name">Meditación</string>
+    <string name="dictionary_word_146_definition">Proceso mental de reflexión que permite mediante la observación
+        y el análisis, conocer la esencia de las cosas concretas, o de especulaciones abstractas.</string>
+    <string name="dictionary_word_147_name">Médium</string>
+    <string name="dictionary_word_147_definition">Ver mediumnidad.</string>
+    <string name="dictionary_word_148_name">Mediumnidad</string>
+    <string name="dictionary_word_148_definition">Los espiritistas consideran médium a toda persona que en
+        estado de trance puede comunicarse con los espíritus, los cuales habitan en otra dimensión.</string>
+    <string name="dictionary_word_149_name">Mente</string>
+    <string name="dictionary_word_149_definition">Potencia intelectual del alma que abarca los designios,
+        el pensamiento, los propósitos y la voluntad.</string>
+    <string name="dictionary_word_150_name">Mesa parlante (Tiptología)</string>
+    <string name="dictionary_word_150_definition">Mesa normalmente trípode, que se emplea para obtener
+        comunicaciones con el mundo suprafísico en la sesiones espiritistas.</string>
+    <string name="dictionary_word_151_name">Metafísica</string>
+    <string name="dictionary_word_151_definition">Parte de la filosofía, que trata del ser como tal,
+        de sus propiedades, principios y causas primarias.</string>
+    <string name="dictionary_word_152_name">Metagnomía</string>
+    <string name="dictionary_word_152_definition">Sinónimo de clarividencia.</string>
+    <string name="dictionary_word_153_name">Metagnimía Táctil</string>
+    <string name="dictionary_word_153_definition">Se trata del conocimiento supranormal por medio del
+        tacto. Sinónimo de Psicoscopia o psicometría.</string>
+    <string name="dictionary_word_154_name">Metapsíquica</string>
+    <string name="dictionary_word_154_definition">Ciencia que estudia toda clase de fenómenos físicos
+        y Psicofísicos que exceden de los límites de la conciencia normal debido a las fuerzas que
+        parecen inteligentes o a facultades desconocidas de la mente. (Charles Richet)</string>
+    <string name="dictionary_word_155_name">Metasomoscopia</string>
+    <string name="dictionary_word_155_definition">Facultad que tienen algunos sensitivos de poder
+        ver en el interior del cuerpo humano.</string>
+    <string name="dictionary_word_156_name">Mimetismo</string>
+    <string name="dictionary_word_156_definition">Propiedad que poseen algunos animales y plantas
+        de cambiar de formas y colores asemejándose a otros seres, o a ciertos objetos inanimados
+        entre los que viven.</string>
+    <string name="dictionary_word_157_name">Monición</string>
+    <string name="dictionary_word_157_definition">Manifestación, generalmente vaga y afectiva,
+        de una toma de conciencia paranormal. Es una percepción extrasensorial espontanea.</string>
+    <string name="dictionary_word_158_name">Monoideismo</string>
+    <string name="dictionary_word_158_definition">Estado de la mente cuando está ocupada por una sola idea.</string>
+    <string name="dictionary_word_159_name">Neumatofonía</string>
+    <string name="dictionary_word_159_definition">Fenómenos de carácter parafónico (emisión de voces y melodías
+        musicales) que los espiritistas atribuyen a la acción directa de los operadores.</string>
+    <string name="dictionary_word_160_name">Nigromancia</string>
+    <string name="dictionary_word_160_definition">Invocación a los muertos para conocer el futuro, sea cual sea
+        el método que se utilice.</string>
+    <string name="dictionary_word_161_name">Nimbo</string>
+    <string name="dictionary_word_161_definition">Halo, franja, círculo o corona luminosa, que circunda
+        la cabeza de una divinidad o santo.</string>
+    <string name="dictionary_word_162_name">Objeto evocador</string>
+    <string name="dictionary_word_162_definition">Es el objeto que el sensitivo se coloca entre sus manos o ante su
+        frente, para dar paso a que se manifiesten percepciones extrasensoriales en relación al mismo.</string>
+    <string name="dictionary_word_163_name">Ocultismo</string>
+    <string name="dictionary_word_163_definition">Ciencia, o escuela de pensamiento, desde la edad media, que
+        estudia los misterios de la naturaleza al mismo tiempo que los poderes psíquicos latentes en el
+        ser humano. En el lenguaje popular Ocultismo equivale a magia.</string>
+    <string name="dictionary_word_164_name">Ódica</string>
+    <string name="dictionary_word_164_definition">Equivale a energía, fuerza; con este término el Barón Karl von
+        reichenbach (1788-1869) vino a explicar la existencia del aura humana y algunos otros fenómenos
+        psicobiológicos.</string>
+    <string name="dictionary_word_165_name">Ondas Cerebrales</string>
+    <string name="dictionary_word_165_definition">Ritmos eléctricos generados en el tejido nervioso de cerebro.
+        Se la ha clasificado en cuatro gamas: Alfa de 8 a 12 ciclos/segundo; Beta frecuencias superiores a 13
+        ciclos/segundo; Delta 1-4 ciclos/segundo; y Theta de 4-8 ciclos/segundo.</string>
+    <string name="dictionary_word_166_name">Ondas Mentales</string>
+    <string name="dictionary_word_166_definition">Supuesta ondas emitidas por el cerebro, se constituyen
+        en el soporte de las comunicaciones telepáticas.</string>
+    <string name="dictionary_word_167_name">Onírico</string>
+    <string name="dictionary_word_167_definition">Dícese de cuanto se relaciona con los sueños, ensueños y
+        ciertas situaciones imaginativas de carácter inconsciente.</string>
+    <string name="dictionary_word_168_name">Oniromancia</string>
+    <string name="dictionary_word_168_definition">Procedimiento de adivinación a través de los sueños.
+        Arte de saber interpretar los sueños.</string>
+    <string name="dictionary_word_169_name">Orientación Mental</string>
+    <string name="dictionary_word_169_definition">En radiestesia, orientación de la mente hacia el
+        objeto de la búsqueda o investigación.</string>
+    <string name="dictionary_word_170_name">Osmogénesis</string>
+    <string name="dictionary_word_170_definition">Producción de substancias aromáticas de origen
+        paranormal.</string>
+    <string name="dictionary_word_171_name">Ouija</string>
+    <string name="dictionary_word_171_definition">Nombre derivado de las conjunciones afirmativas
+        de dos idiomas: el vocablo francés Oui y el aleman Ja, ambas significan "sí". Es el
+        instrumento constituido por un "master" circular o plancha pequeña de madera con movilidad
+        para desplazarse sobre una superficie en la que están estampados todas las letras del
+        alfabeto y los números de 0 al 9.</string>
+    <string name="dictionary_word_172_name">Ovejas</string>
+    <string name="dictionary_word_172_definition">En parapsicología es el nombre que reciben las
+        personas sensitivas que muestran una buena predisposición para someterse a la
+        experimentación ESP.</string>
+    <string name="dictionary_word_173_name">Palingenesia</string>
+    <string name="dictionary_word_173_definition">Regeneración, resurrección, reencarnación,
+        transformación, renovación.</string>
+    <string name="dictionary_word_174_name">Pandemonium</string>
+    <string name="dictionary_word_174_definition">Dicho término define el hecho concreto en el
+        que se produce un alud o conjunto de ruidos en una casa en un momento determinado y
+        que provoca, súbitamente, un desorden total de forma misteriosa. La diferencia con el
+        poltergeist, es que el Pandemonium tiene carácter maléfico.</string>
+    <string name="dictionary_word_175_name">Pantomnesia</string>
+    <string name="dictionary_word_175_definition">Dícese de la memoria del inconsciente.</string>
+    <string name="dictionary_word_176_name">Parabiotermia</string>
+    <string name="dictionary_word_176_definition">Fenómeno Parabiológico que consiste en controlar
+        de forma paranormal y a voluntad la temperatura del cuerpo.</string>
+    <string name="dictionary_word_177_name">Paracardismo</string>
+    <string name="dictionary_word_177_definition">Fenómeno Parabiológico que consiste en controlar
+        a voluntad la circulación sanguínea y el ritmo cardíaco, en el momento preciso.</string>
+    <string name="dictionary_word_178_name">Paraciencias</string>
+    <string name="dictionary_word_178_definition">Todo campo de conocimiento humano que trate de
+        analizar aspectos de la naturaleza inaccesibles al método científico actual: como la
+        Parapsicología, la Ufología, etc.</string>
+    <string name="dictionary_word_179_name">Paragnosta</string>
+    <string name="dictionary_word_179_definition">Se refiere a una persona sensitiva y que posee
+        una inhabitual capacidad para la percepción extrasensorial.</string>
+    <string name="dictionary_word_180_name">Paranormal</string>
+    <string name="dictionary_word_180_definition">Término ideado por W. Carrington para reemplazar
+        el término supranormal totalmente en desuso.</string>
+    <string name="dictionary_word_181_name">Parapsicobiofísica</string>
+    <string name="dictionary_word_181_definition">Término sinónimo de parapsicología referente a
+        la forma materialista de conocimiento de los fenómenos paranormales, que desde la
+        perspectiva agnóstica, se estudia en algunos países del este europeo.</string>
+    <string name="dictionary_word_182_name">Parapsicología</string>
+    <string name="dictionary_word_182_definition">Según el doctor J. B. Rhine, Parapsicología es
+        la rama anexa a la psicología, y se ocupa de estudiar hechos psíquicos, psicofísicos, y
+        parafísicos. La parapsicología es la rama del conocimiento que investiga aquellas
+        interrelaciones entre el hombre y sus medios: biológico, físico, y social y, en las que no
+        intervienen órganos sensoriales conocidos ni transferencia de energía física conocida
+        hasta la fecha. (Actualmente se le llama también Parapsicobiofísica).</string>
+    <string name="dictionary_word_183_name">Paraterapia</string>
+    <string name="dictionary_word_183_definition">Cualquier fenómeno que esté vinculado con los
+        curanderos, cirujanos psíquicos, sanadores, etc.</string>
+    <string name="dictionary_word_184_name">Péndulo radiestésico</string>
+    <string name="dictionary_word_184_definition">Especie de plomada o péndulo de metal utilizado
+        por el radiestesista para encontrar lo que busca.</string>
+    <string name="dictionary_word_185_name">Percepción Extrasensorial (PES)</string>
+    <string name="dictionary_word_185_definition">Hecho externo sin la intervención de ningún
+        sentido conocido o concebible. Es lo que el ser humano capta o recibe a través de
+        canales sensoriales o sentidos anormales. En inglés E.S.P. (extra sensorial percepción).
+        Las siglas inglesas son aceptadas en todo el mundo y normalmente nunca se traducen.</string>
+    <string name="dictionary_word_186_name">Piromancia</string>
+    <string name="dictionary_word_186_definition">Adivinación por medio del fuego.</string>
+    <string name="dictionary_word_187_name">Pirovasia</string>
+    <string name="dictionary_word_187_definition">Facultad que tienen ciertas personas de caminar
+        descalzos sobre las brasas.</string>
+    <string name="dictionary_word_188_name">P.K. (PSI-KAPPA)</string>
+    <string name="dictionary_word_188_definition">Psicocinesia. Es la influencia directa que ejerce
+        un sujeto sobre un sistema físico sin que intervenga instrumento o energía física
+        conocida o concebible.</string>
+    <string name="dictionary_word_189_name">Pneumotofonía</string>
+    <string name="dictionary_word_189_definition">Comunicación oral, de los espíritus sin la
+        intervención de la voz del médium.</string>
+    <string name="dictionary_word_190_name">Pneumatografía</string>
+    <string name="dictionary_word_190_definition">Escritura directa de los espíritus sin la
+        intervención de la mano del médium.</string>
+    <string name="dictionary_word_191_name">Poltergeist</string>
+    <string name="dictionary_word_191_definition">Término exclusivamente parapsicológico que corresponde
+        a la voz alemana que significa: "duende ruidoso". Se denomina así a una extensa gama de
+        fenómenos Parafísicos (raramente Parabiológicos) que se manifiestan siempre vinculados a
+        un lugar (viviendas, cementerios, templos, etc.). Algunos de los hechos registrados en
+        este tipo de manifestación han sido: Litotelergia, Raps, Teleplastias, Telecinesia de
+        muebles u objetos pesados, Fantasmogénesis, voces y ruidos paranormales. Parecen asociarse
+        a la presencia se un sensitivo, con frecuencia en edad adolescente. Han recibido también
+        el nombre de casas encantadas o infestación.(Lease también Psicorragia).</string>
+    <string name="dictionary_word_192_name">Postcognición</string>
+    <string name="dictionary_word_192_definition">Sinónimo de retrocognición. Percepción de
+        acontecimientos pasados.</string>
+    <string name="dictionary_word_193_name">Precognición</string>
+    <string name="dictionary_word_193_definition">Percepción paranormal de un acontecimiento que
+        todavía no se ha producido.</string>
+    <string name="dictionary_word_194_name">Premonición</string>
+    <string name="dictionary_word_194_definition">Advertencia vaga, generalmente, referente al
+        porvenir o a un acontecimiento futuro.</string>
+    <string name="dictionary_word_195_name">Asamblea de brujas</string>
+    <string name="dictionary_word_195_definition">Agrupación de brujas.</string>
+    <string name="dictionary_word_196_name">Psicobulia</string>
+    <string name="dictionary_word_196_definition">Capacidad inconsciente que posee un dotado para
+        dirigir inteligentemente su telergia.</string>
+    <string name="dictionary_word_197_name">Psicocinesia</string>
+    <string name="dictionary_word_197_definition">Presunta acción de la mente sobre un sistema
+        físico en evolución.</string>
+    <string name="dictionary_word_198_name">Psicofonías</string>
+    <string name="dictionary_word_198_definition">Grabaciones sobre cinta virgen en cualquier magnetófono,
+        o cualquier otro tipo de soporte magnético u óptico, de voces humanas, susurros, ruidos, música,
+        campanas, etc. de ignorada procedencia. (También llamadas Parafonías). Aunque la distinción entre
+        los términos parafonías y psicofonías sea prácticamente nulo, el nombre más apropiado para el
+        fenómeno sería el de parafonía.</string>
+    <string name="dictionary_word_199_name">Psicografía</string>
+    <string name="dictionary_word_199_definition">Aparición de un escrito en una pizarra, pared, papel,
+        etc. que no ha podido ser efectuado por métodos normales. Es de origen paranormal.</string>
+    <string name="dictionary_word_200_name">Psicometría</string>
+    <string name="dictionary_word_200_definition">Sinónimo de psicoscopia. En parapsicología este
+        término se emplea para designar la E.S.P. que poseen algunas personas sensitivas mientras
+        sostienen entre sus manos un objeto cualquiera que ha pertenecido a la persona que se
+        está buscando.</string>
+    <string name="dictionary_word_201_name">Psicorragia</string>
+    <string name="dictionary_word_201_definition">Liberación de la telergia o de ciertas energías y
+        fuerzas inconscientes.</string>
+    <string name="dictionary_word_202_name">Psicoscopia</string>
+    <string name="dictionary_word_202_definition">Facultad clarividente que poseen algunos sensitivos,
+        que al tener en sus manos un testigo, como un pañuelo, un bolígrafo, etc., le hará relacionarse
+        mentalmente con el poseedor de dicho objeto y obtendrá la información necesaria.</string>
+    <string name="dictionary_word_203_name">Psicotrónica</string>
+    <string name="dictionary_word_203_definition">Sinónimo de Parapsicología; término empleado sobre
+        todo en los antiguos países socialistas o comunistas.</string>
+    <string name="dictionary_word_204_name">Quirología</string>
+    <string name="dictionary_word_204_definition">Arte de conocer el carácter de una persona por la
+        observación de sus manos.</string>
+    <string name="dictionary_word_205_name">Quiromancia</string>
+    <string name="dictionary_word_205_definition">Se trata de un arte adivinatorio mediante el estudio
+        o análisis de las rayas de la mano, según unas reglas universalmente aceptadas.</string>
+    <string name="dictionary_word_206_name">Rabdomancia</string>
+    <string name="dictionary_word_206_definition">Es la adivinación por medio de un palo o bastón.
+        Es de origen antiquísimo y se trata de la precursora de la moderna Radiestesia.</string>
+    <string name="dictionary_word_207_name">Radiaciones</string>
+    <string name="dictionary_word_207_definition">Emisiones energéticas que pueden tener naturaleza
+        ondulatoria.</string>
+    <string name="dictionary_word_208_name">Radiestesia</string>
+    <string name="dictionary_word_208_definition">Es el arte de captar por medio de varilla o el
+        péndulo, manantiales, tesoros, cosas enterradas, perdidas, etc. ello es debido gracias a
+        la percepción extrasensorial del individuo.</string>
+    <string name="dictionary_word_209_name">Raps</string>
+    <string name="dictionary_word_209_definition">Palabra inglesa que designa los ruidos
+        insólitos que se producen sin causa explicable.</string>
+    <string name="dictionary_word_210_name">Reencarnación</string>
+    <string name="dictionary_word_210_definition">Según el Espiritismo y muchas religiones,
+        vuelta del espíritu a la vida corporal; pluralidad de existencias.</string>
+    <string name="dictionary_word_211_name">Retrocognición</string>
+    <string name="dictionary_word_211_definition">Conocimiento de sucesos o vivencias pasadas
+        fuera de la memoria del individuo y que no han podido ser conocidas por los canales
+        sensoriales normales.</string>
+    <string name="dictionary_word_212_name">SEIP</string>
+    <string name="dictionary_word_212_definition">Siglas de la Sociedad Española de
+        Investigaciones Parapsicológicas. Está sociedad presidida por Pedro Amorós
+        (Investigador en Transcomunicación Instrumental) tiene sede en Alicante (España)
+        y su ámbito de investigación es internacional.</string>
+    <string name="dictionary_word_213_name">Sematología</string>
+    <string name="dictionary_word_213_definition">Sinónimo de tiptología.</string>
+    <string name="dictionary_word_214_name">Sensitivo</string>
+    <string name="dictionary_word_214_definition">Persona que tiene especial facultad para
+        experimentar infinidad de fenómenos paranormales.</string>
+    <string name="dictionary_word_215_name">Simulación</string>
+    <string name="dictionary_word_215_definition">Muchos fenómenos paranormales pueden simularse
+        o trucarse.</string>
+    <string name="dictionary_word_216_name">Sonidos Místicos</string>
+    <string name="dictionary_word_216_definition">Determinados sonidos percibidos durante la
+        meditación.</string>
+    <string name="dictionary_word_217_name">Sugestión Telepática</string>
+    <string name="dictionary_word_217_definition">Telebulia, transmisión de la voluntad a distancia.</string>
+    <string name="dictionary_word_218_name">Takinesia</string>
+    <string name="dictionary_word_218_definition">Movimientos rápidos, cercanos, de objetos diversos
+        producidos por el médium.</string>
+    <string name="dictionary_word_219_name">Tarot</string>
+    <string name="dictionary_word_219_definition">Baraja compuesta de 78 naipes de origen egipcio y que se
+        utilizan para la predicción.</string>
+    <string name="dictionary_word_220_name">Telebulia</string>
+    <string name="dictionary_word_220_definition">Dícese de la sugestión telepática.</string>
+    <string name="dictionary_word_221_name">Telecinesia</string>
+    <string name="dictionary_word_221_definition">Desplazamiento de objetos sin causa física observable
+        o conocida.</string>
+    <string name="dictionary_word_222_name">Telehipnosis</string>
+    <string name="dictionary_word_222_definition">Inducción hipnótica a distancia.</string>
+    <string name="dictionary_word_223_name">Telepatía</string>
+    <string name="dictionary_word_223_definition">Transmisión del pensamiento a distancia.</string>
+    <string name="dictionary_word_224_name">Teleplastia</string>
+    <string name="dictionary_word_224_definition">Sinónimo de ectoplasmia. Objetivación de las formas.</string>
+    <string name="dictionary_word_225_name">Telergia</string>
+    <string name="dictionary_word_225_definition">Fuerza material, física o psicofísica puesta en juego en
+        muchos actos de telepatía.</string>
+    <string name="dictionary_word_226_name">Maldición</string>
+    <string name="dictionary_word_226_definition">Palabras habladas o escritas para influenciar a otros
+        paranormalmente, causándoles daño.</string>
+    <string name="dictionary_word_227_name">Termogénesis</string>
+    <string name="dictionary_word_227_definition">Energía causante y responsable de los incendios dentro de
+        una casa, comercio, oficina, etc. causada generalmente por la Telergia.</string>
+    <string name="dictionary_word_228_name">Testigo</string>
+    <string name="dictionary_word_228_definition">En radiestesia, cuerpo de naturaleza idéntica a la que
+        se busca.</string>
+    <string name="dictionary_word_229_name">Tiptología</string>
+    <string name="dictionary_word_229_definition">Medio de comunicación de los espíritus por medio de
+        percusiones o golpes, a veces imperfectos, debido a su lentitud.</string>
+    <string name="dictionary_word_230_name">Vaciados</string>
+    <string name="dictionary_word_230_definition">Moldes representando manos y brazos obtenidos sobre
+        parafina, arcilla o cualquier otra sustancia plástica y cuya formación se ha conseguido
+        siempre en forma totalmente paranormal.</string>
+    <string name="dictionary_word_231_name">Varilla de Radiestesia</string>
+    <string name="dictionary_word_231_definition">Son dos varillas de material flexible, unidas por
+        un extremo y cuya función consiste en amplificar y hacer sensibles los movimientos inconscientes
+        de las manos, en su momento preciso, en el curso de las investigaciones radiestésicas.</string>
+    <string name="dictionary_word_232_name">Vaticinar</string>
+    <string name="dictionary_word_232_definition">Pronosticar, predecir.</string>
+    <string name="dictionary_word_233_name">Vidente</string>
+    <string name="dictionary_word_233_definition">En parapsicología un vidente es una persona con
+        facultades de clarividencia comprobada.</string>
+    <string name="dictionary_word_234_name">Xenoglosia</string>
+    <string name="dictionary_word_234_definition">Locución de lenguas extranjeras que nunca fueron aprendidas.</string>
+    <string name="dictionary_word_235_name">Xilomancia</string>
+    <string name="dictionary_word_235_definition">Adivinación hecha por medio de la madera.</string>
+    <string name="dictionary_word_236_name">Zahorí</string>
+    <string name="dictionary_word_236_definition">Dícese de la persona con facultades para la radiestesia.
+        Comúnmente se conocían así a las personas capacitadas para localizar pozos de aguas subterráneas.
+        Antiguo nombre para la radiestesista, hoy en desuso completamente.</string>
+    <string name="dictionary_word_237_name">Zener</string>
+    <string name="dictionary_word_237_definition">Nombre por el que se conocen las cartas llamadas
+        PES en el análisis estadístico de ciertos fenómenos de percepción extrasensorial.</string>
+    <string name="dictionary_word_238_name">Zombie</string>
+    <string name="dictionary_word_238_definition">Un cadáver que ha sido devuelto en parte a la
+        vida (sin alma) por arte de magia.</string>
+</resources>
